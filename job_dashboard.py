@@ -4,6 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 import numpy as np
+from db_service import DatabaseService
 
 # Page configuration
 st.set_page_config(
@@ -16,10 +17,10 @@ st.set_page_config(
 st.markdown("""
     <style>
     .main {
-        background-color:"blue";
+        background-color: white;
     }
     .stMetric {
-        background-color: white;
+        background-color: black;
         padding: 15px;
         border-radius: 10px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -29,7 +30,7 @@ st.markdown("""
         box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     }
     .metric-value {
-        color: #8B4513;
+        color: #000000;
         font-weight: bold;
     }
     .metric-label {
@@ -66,33 +67,10 @@ st.title("Job Posting Effectiveness Dashboard")
 #st.markdown(f"*Last updated: {datetime.now().strftime('%B %d, %Y')}*")
 
 # Load and preprocess data
-@st.cache_data
-def load_data():
-    try:
-        # Load your data here
-        # For now, we'll create sample data
-        np.random.seed(42)
-        n_samples = 1000
-        
-        data = {
-            'contractType': np.random.choice(['Full-time', 'Part-time', 'Contract', 'Internship'], n_samples),
-            'viewsCount': np.random.randint(100, 10000, n_samples),
-            'applicationsCount': np.random.randint(10, 500, n_samples),
-            'sector': np.random.choice(['AI', 'Blockchain', 'Cloud', 'Cybersecurity', 'Data Science'], n_samples),
-            'experienceLevel': np.random.choice(['Junior', 'Mid-level', 'Senior'], n_samples),
-            'month': pd.date_range(start='2024-01-01', periods=n_samples, freq='D').strftime('%Y-%m'),
-            'state': np.random.choice(['CA', 'NY', 'TX', 'FL', 'WA'], n_samples),
-            'salaryRating': np.random.randint(1, 5, n_samples)
-        }
-        
-        df = pd.DataFrame(data)
-        return df
-    except Exception as e:
-        st.error(f"Error loading data: {str(e)}")
-        return None
+
 
 # Load data
-df = load_data()
+df = DatabaseService()
 
 if df is not None:
     # Sidebar filters
@@ -100,9 +78,10 @@ if df is not None:
 
     
     # State filter
+    all_states=['All'] + sorted(df['state'].unique())
     selected_state = st.sidebar.selectbox(
         "Select State",
-        options=sorted(df['state'].unique()),
+        options=all_states,
         index=0
     )
     
@@ -116,7 +95,7 @@ if df is not None:
     
     # Filter data based on selections
     filtered_df = df[
-        (df['state'] == selected_state) &
+        ((selected_state == 'All') | (df['state'] == selected_state)) &
         (df['salaryRating'].between(min_rating, max_rating))
     ]
     

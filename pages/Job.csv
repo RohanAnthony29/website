@@ -1,0 +1,791 @@
+Job id,companyId,title,contractType,Companyname,city,state,sector,viewscount,applicationsCount,dateposted
+4016891837,165158,Data Engineer (L5) - Games,Full-time,Netflix,Los Gatos,CA,Entertainment Providers,834,200,04/02/25
+4130985970,165158,Data Visualization Engineer (L5) - Product,Full-time,Netflix,Los Gatos, CA,Entertainment Providers,810,200,04/02/25
+4083508705,2620735,"Data Engineer, Central Data",Full-time,Lyft,San Francisco County, CA,Ground Passenger Transportation,562,200,04/02/25
+4075195230,165158,Data Engineer (L5) - Data Systems Product,Full-time,Netflix,Los Gatos, CA,Entertainment Providers,932,200,04/02/25
+4120819959,10667,"Data Engineer, Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",754,194,04/02/25
+4125815879,80392352,Data Engineer (Junior),Full-time,Paces,New York, NY,Software Development,767,200,04/02/25
+3982462774,165158,Data Engineer (L5),Full-time,Netflix,Los Gatos, CA,Entertainment Providers,944,200,04/02/25
+3989284331,165158,Data Engineer (L5) - Ads,Full-time,Netflix,Los Gatos, CA,Entertainment Providers,643,200,04/02/25
+4148718851,165158,Data Engineer (L4) - Security,Full-time,Netflix,Los Gatos, CA,Entertainment Providers,972,200,04/02/25
+4070167112,165158,"Data Visualization Engineer Intern, Summer 2025",Internship,Netflix,Los Gatos, CA,Entertainment Providers,860,200,04/02/25
+4083507967,2620735,"Data Engineer, Central Data",Full-time,Lyft,San Francisco County, CA,Ground Passenger Transportation,844,200,04/02/25
+4120823533,10667,"Data Engineer, Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",789,200,04/02/25
+4120822675,10667,Data Engineer Intern,Full-time,Meta,New York, NY,"Technology, Information and Internet",958,172,04/02/25
+4137309292,165158,Data Engineer (L5) - Commerce Product Data Engineering,Full-time,Netflix,Los Gatos, CA,Entertainment Providers,711,200,04/02/25
+4150398486,3526554,Data Engineer,Full-time,BDG,New York, NY,Online Audio and Video Media,678,200,04/02/25
+4016895582,165158,Data Engineer (L5) - Product (Device),Full-time,Netflix,Los Gatos, CA,Entertainment Providers,200,200,04/02/25
+4120828009,10667,"Data Engineer, Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",836,93,04/02/25
+4131815217,80392352,Data Engineer,Full-time,Paces,New York, NY,Software Development,943,200,04/02/25
+4120820960,10667,"Data Engineer, Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",677,99,04/02/25
+4122379882,78378114,Junior Data Engineer,Full-time,Paramount,New York, NY,Entertainment Providers,932,200,04/02/25
+4120820951,10667,"Data Engineer, Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",517,138,04/02/25
+4133335951,80392352,Data Engineer,Full-time,Paces,New York, NY,Software Development,572,200,04/02/25
+4148264684,16153604,Data Engineer,Full-time,"ReTech Labs, Inc.",San Diego, CA,Information Technology & Services,575,200,04/02/25
+4125537833,1447520,Data Engineer - Samsung Ads,Full-time,Samsung Electronics America,Mountain View, CA,Computers and Electronics Manufacturing,872,200,04/02/25
+4028650304,165158,Data Engineer (L5) - Security,Full-time,Netflix,Los Gatos, CA,Entertainment Providers,200,200,04/02/25
+4130614316,3832633,Data Engineer,Full-time,Calm,San Francisco, CA,Mental Health Care,947,200,04/02/25
+4120828070,10667,Data Engineer Intern,Full-time,Meta,New York, NY,"Technology, Information and Internet",913,200,04/02/25
+4149214885,222322,Data Engineer Intern,Part-time,"Kwik Trip, Inc.",La Crosse, WI,Retail,804,200,04/02/25
+4125730825,2454643,Data Engineer,Full-time,HelloFresh,New York, NY,Consumer Services,901,200,04/02/25
+4148527612,74737673,Data Engineer (Databricks preferred),Full-time,NEXT Ventures,Edison, NJ,Consumer Services,678,200,04/02/25
+4115021577,22688,Data Engineer,Full-time,Atlassian,Austin, TX,Software Development,677,200,04/02/25
+4149787322,1482,Software Engineer - Recent Graduate,Full-time,PayPal,San Jose, CA,"Software Development, Financial Services, and Technology, Information and Internet",907,90,04/02/25
+4138463912,81884275,Data Engineer,Full-time,Suno,Boston, MA,"Technology, Information and Internet",755,200,04/02/25
+4148227249,204575,Data Engineer,Full-time,InterWorks,Oklahoma City, OK,"Technology, Information and Internet",678,200,04/02/25
+4142248460,1318,Data Engineer,Full-time,Wipro,Boston, MA,IT Services and IT Consulting,789,200,04/02/25
+4079358073,93246786,Data Engineer,Contract,Accroid Inc,Jersey City, NJ,IT Services and IT Consulting,527,200,04/02/25
+4054258701,5837,Data Engineer - 75% Remote,Full-time,Omron Automation,Hoffman Estates, IL,"Appliances, Electrical, and Electronics Manufacturing",833,200,04/02/25
+4150714152,1916708,Software Engineer - New Grad 2025,Full-time,Nextdoor,San Francisco, CA,"Technology, Information and Internet",714,200,04/02/25
+4120823536,10667,"Data Engineer, Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",762,88,04/02/25
+4080016680,2658876,Data Engineer,Full-time,Peloton Interactive,New York, NY,"Technology, Information and Internet",200,200,04/02/25
+4120826362,10667,Data Engineer Intern,Full-time,Meta,New York, NY,"Technology, Information and Internet",754,107,04/02/25
+4073150825,3365729,Data Engineer I,Full-time,Condé Nast,New York City Metropolitan Area,NY,Media Production,200,200,04/02/25
+4147841624,28665250,Data Engineer,Full-time,"APiJET, LLC",Seattle, WA,Airlines and Aviation,724,115,04/02/25
+4148224948,204575,Data Engineer,Full-time,InterWorks,Oklahoma City, OK,"Technology, Information and Internet",947,200,04/02/25
+4115017957,22688,Data Engineer,Full-time,Atlassian,Austin, TX,Software Development,770,200,04/02/25
+4115023391,22688,Data Engineer,Full-time,Atlassian,Austin, TX,Software Development,517,200,04/02/25
+4115019764,22688,Data Engineer,Full-time,Atlassian,Austin, TX,Software Development,200,200,04/02/25
+4130736027,1154342,Data Engineer,Full-time,Family Office,Los Angeles, CA,Capital Markets,926,200,04/02/25
+4145898813,69639337,Data Engineer,Contract,BeaconFire Inc.,New Jersey, United States,IT Services and IT Consulting,677,200,04/02/25
+4137705228,9477,Data Engineer,Full-time,"Agero, Inc.",United States, United States,IT Services and IT Consulting,789,200,04/02/25
+4151051466,51732630,Data Engineer II,Full-time,Garner Health,New York, NY,"Technology, Information and Internet",620,200,04/02/25
+4117985552,13030788,Data Engineer,Full-time,Headway,United States, United States,Mental Health Care,969,200,04/02/25
+4143932477,529693,Data Engineer,Full-time,TextNow,New York, NY,"Telecommunications, IT Services and IT Consulting, and Software Development",808,200,04/02/25
+4113799942,89214964,Data Engineer,Full-time,Flagler Health,New York, NY,"Technology, Information and Internet",925,200,04/02/25
+4151640775,80446438,Software Engineer (all levels),Full-time,Pomelo Care,San Francisco, CA,Hospitals and Health Care,678,200,04/02/25
+4066235570,1586,Data Engineer,Full-time,Amazon,Bellevue, WA,Software Development,932,200,04/02/25
+4143545389,3015,Data Engineer II-R-240296,Full-time,Mastercard,Arlington, VA,"Financial Services, IT Services and IT Consulting, and Technology, Information and Internet",838,121,04/02/25
+4143818260,18445891,Data Engineer,Full-time,Oshi Health,Chicago, IL,"Technology, Information and Internet",972,200,04/02/25
+4144303905,1586,"Data Engineer, WWASFT",Full-time,Amazon,Bellevue, WA,Software Development,677,25,04/02/25
+4143668384,1269,Associate Data Engineer,Full-time,Chubb,Jersey City, NJ,Insurance,789,83,04/02/25
+4148834197,18059273,Data Engineer: Big Data,Contract,MNJ SOFTWARE,Home, KS,IT Services and IT Consulting,913,200,04/02/25
+4105249872,1586,Data Engineer,Full-time,Amazon,Bellevue, WA,Software Development,830,200,04/02/25
+4071353896,2751451,Data Engineer,Full-time,Rite,Renton, WA,IT Services and IT Consulting,655,70,04/02/25
+4148415800,3240627,Freelance Data Engineer,Temporary,Saatchi & Saatchi (We Are Saatchi),El Segundo, CA,Advertising Services,678,170,04/02/25
+4045409547,66321745,junior Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,969,25,04/02/25
+4127696196,17981957,Data Engineer,Full-time,Two Chairs,United States, United States,Mental Health Care,858,200,04/02/25
+3998840084,1431,Data Engineer,Full-time,PepsiCo,Plano, TX,Manufacturing and Food and Beverage Services,200,200,04/02/25
+4072112483,80517752,Software Engineer - Post-training Data,Full-time,Magic,San Francisco, CA,Software Development,511,200,04/02/25
+4142968399,3450,Data Engineer,Full-time,Analog Devices,San Jose, CA,Semiconductor Manufacturing,926,200,04/02/25
+4148229125,204575,Data Engineer,Full-time,InterWorks,Oklahoma City, OK,"Technology, Information and Internet",915,200,04/02/25
+4151579860,1337,Software Engineer - AI Platform,Full-time,LinkedIn,Mountain View, CA,"Technology, Information and Internet and IT Services and IT Consulting",678,200,04/02/25
+4100923585,3450,Associate Data Engineer,Full-time,Analog Devices,San Jose, CA,Semiconductor Manufacturing,759,200,04/02/25
+4045412739,66321745,Junior Data Engineer (Remote),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4087169490,11137552,Data Engineer,Full-time,Veracity Software Inc,Jersey City, NJ,IT Services and IT Consulting,528,200,04/02/25
+4024788970,19031767,Data Engineer,Full-time,Hayden AI,San Francisco, CA,Software Development,200,200,04/02/25
+4120826496,10667,Data Analytics Engineer,Full-time,Meta,New York, NY,"Technology, Information and Internet",809,30,04/02/25
+4148718999,9215489,Data Engineer - Abu Dhabi Hedge Fund,Full-time,Saragossa,New York, United States,Financial Services,790,200,04/02/25
+4152485171,2139901,Senior Data Engineer,Full-time,Everlaw,Oakland, CA,Software Development,678,48,04/02/25
+4134134679,2380,Data Engineer,Full-time,United Airlines,Chicago, IL,Airlines and Aviation,677,200,04/02/25
+4148913391,1167899,Data Engineer,Full-time,Double Good,Chicago, IL,"Technology, Information and Internet",678,200,04/02/25
+4092612147,1586,Data Engineer,Full-time,Amazon,Bellevue, WA,Software Development,848,200,04/02/25
+4136952529,10801123,Data Engineer,Full-time,M Science,New York City Metropolitan Area,NY,Financial Services and Market Research,627,200,04/02/25
+4083292134,6125149,Data Engineer,Full-time,Verition Fund Management LLC,New York, NY,Software Development,833,71,04/02/25
+3998838429,1431,Data Engineer,Full-time,PepsiCo,Plano, TX,Manufacturing and Food and Beverage Services,200,200,04/02/25
+4092606962,1586,Data Engineer,Full-time,Amazon,Bellevue, WA,Software Development,989,200,04/02/25
+4151876036,3255717,Data Engineer,Full-time,Distributor Wire & Cable,Aurora, CO,Internet Publishing,678,200,04/02/25
+4129675524,164518,Data Engineer I,Full-time,Jackson,Nashville, TN,Financial Services and Insurance,634,200,04/02/25
+4089861426,2646,Data Engineer III,Full-time,Walmart,Sunnyvale, CA,Retail,200,200,04/02/25
+4143538863,3015,Data Engineer II-R-239977,Full-time,Mastercard,Arlington, VA,"Financial Services, IT Services and IT Consulting, and Technology, Information and Internet",609,147,04/02/25
+4125056035,93109232,Data Engineer,Full-time,Guac,New York, NY,Software Development,860,200,04/02/25
+4107748614,33246798,"Data Engineer, E-Commerce",Full-time,TikTok,San Jose, CA,Entertainment Providers,876,200,04/02/25
+4143045123,20922,Junior Data Engineer,Full-time,National Audubon Society,New York, NY,"Non-profit Organizations, Political Organizations, and Veterinary Services",711,200,04/02/25
+4142279985,72048424,Data Engineer,Full-time,Forian Inc.,United States, United States,"Data Infrastructure and Analytics, Financial Services, and Hospitals and Health Care",926,200,04/02/25
+4120825482,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",668,26,04/02/25
+4132964570,18503560,Data Engineer (Healthcare Data),Full-time,TechMasters,South San Francisco, CA,Software Development,677,157,04/02/25
+4145412381,36094,Data Engineer,Full-time,GAINS,Atlanta, GA,Internet Publishing,522,143,04/02/25
+4149980852,1035,Data Engineer,Full-time,Microsoft,Redmond, WA,Software Development,678,200,04/02/25
+4152194959,4030,Data Analytics Engineer Co-op,Full-time,Bose Corporation,Framingham, MA,Computers and Electronics Manufacturing and Motor Vehicle Manufacturing,678,200,04/02/25
+4141579029,52160608,Data Engineer,Full-time,Whatnot,Los Angeles Metropolitan Area,CA,"Technology, Information and Internet",560,200,04/02/25
+4131606335,26793,Data Engineer,Full-time,Apexon,Dallas, TX,IT Services and IT Consulting,560,200,04/02/25
+4045410894,66321745,Junior Data Engineer (Remote),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,651,25,04/02/25
+4146427912,3876753,Data Engineer,Full-time,PILYTIX,Austin, TX,IT Services and IT Consulting,808,200,04/02/25
+4150472828,93246786,Data Engineer,Contract,Accroid Inc,Jersey City, NJ,IT Services and IT Consulting,562,200,04/02/25
+4136864033,401618,Data Engineer,Full-time,Premier Group,United States, United States,Software Development and Manufacturing,677,200,04/02/25
+4130662149,74615750,Data Engineer,Full-time,Imprint,New York, NY,Financial Services,711,200,04/02/25
+4066233818,1586,Data Engineer,Full-time,Amazon,Bellevue, WA,Software Development,932,200,04/02/25
+4056191928,2646,Data Engineer III,Full-time,Walmart,Sunnyvale, CA,Retail,200,200,04/02/25
+4147567410,66321745,Data Engineer - Entry/Remote,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,911,33,04/02/25
+4149737949,1283,Data Engineer - Python with Data Structure,Full-time,Infosys,Texas, United States,IT Services and IT Consulting,622,200,04/02/25
+4150917785,5279801,"Software Engineer Co-op, AI/ML",Internship,Bose Professional,Hopkinton, MA,Internet Publishing,678,200,04/02/25
+4137483462,166658,Data Engineer,Full-time,University of Notre Dame,Notre Dame, IN,Higher Education,714,200,04/02/25
+4077944881,2684737,Experienced Data Engineer - Data Engineering,Full-time,Plaid,San Francisco, CA,"Software Development, Technology, Information and Internet, and Financial Services",731,200,04/02/25
+4143934304,529693,Data Engineer,Full-time,TextNow,New York, NY,"Telecommunications, IT Services and IT Consulting, and Software Development",782,200,04/02/25
+4151641938,18048544,Data Engineer,Full-time,Crux,New York, NY,Software Development,678,119,04/02/25
+4045414243,66321745,Junior/Entry Data Engineer (Remote),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,30,04/02/25
+4066237448,1586,Data Engineer,Full-time,Amazon,Bellevue, WA,Software Development,789,200,04/02/25
+4117095907,66321745,Data Engineer (Entry Level),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,838,76,04/02/25
+4066232907,1586,Data Engineer,Full-time,Amazon,Bellevue, WA,Software Development,658,200,04/02/25
+4134210028,33246798,Data Engineer - Data Platform,Full-time,TikTok,San Jose, CA,Entertainment Providers,754,200,04/02/25
+4117848871,65137,Data Engineer,Full-time,Q2,Austin, TX,Financial Services,770,200,04/02/25
+4098430188,7971559,Data Engineer II,Full-time,PatientIQ,Chicago, IL,IT Services and IT Consulting,860,200,04/02/25
+4145181032,28619152,Data Engineer,Full-time,PadSplit,Indiana, United States,Real Estate,917,200,04/02/25
+4151647211,532234,Data Engineer,Full-time,MMG Insurance,Presque Isle, ME,Insurance,678,107,04/02/25
+4139248930,10788836,Data Engineer,Full-time,VieCure,Denver Metropolitan Area,,"Software Development, IT System Custom Software Development, and Hospitals and Health Care",560,200,04/02/25
+4120825524,10667,Data Engineer,Full-time,Meta,New York, NY,"Technology, Information and Internet",609,40,04/02/25
+4108550319,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,972,85,04/02/25
+4108503387,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,677,192,04/02/25
+4052423502,66321745,Junior Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,535,25,04/02/25
+4139526575,85677,Data Engineer,Full-time,Georgia Pacific,Atlanta, GA,Paper and Forest Product Manufacturing,832,25,04/02/25
+4151640169,361843,Big Data Engineer,Full-time,Uber Agency,Daly City, CA,Advertising Services,678,28,04/02/25
+4011556532,5045143,Data Engineer,Full-time,StackAdapt,United States, United States,"Technology, Information and Internet",722,200,04/02/25
+4148682774,28868872,Data Engineer II,Full-time,Astrana Health,Alhambra, CA,Hospitals and Health Care,761,200,04/02/25
+4137189322,1586,"Data Engineer, F3 DASH",Full-time,Amazon,Bellevue, WA,Software Development,911,200,04/02/25
+4146251839,1353,Python SQL Data Engineer,Full-time,Tata Consultancy Services,Atlanta, GA,IT Services and IT Consulting,789,163,04/02/25
+4120910711,1586,"Data Engineer , Amazon Pharmacy",Full-time,Amazon,Bellevue, WA,Software Development,583,155,04/02/25
+4149381337,34072,Data Engineer,Full-time,Hiebing,Madison, WI,Internet Publishing,678,200,04/02/25
+4120825493,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",725,25,04/02/25
+4133245417,3067,ETL Data Engineer,Full-time,Tech Mahindra,Jacksonville, FL,Banking,609,200,04/02/25
+4120822651,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",742,25,04/02/25
+4148243135,2433416,Data Engineer II,Full-time,Chewy,Plantation, FL,Retail,913,200,04/02/25
+4066233825,1586,Data Engineer,Full-time,Amazon,Bellevue, WA,Software Development,602,200,04/02/25
+4141159029,15259345,Data Engineer,Full-time,Citadel Securities,Miami, FL,Financial Services,711,200,04/02/25
+4052854724,66321745,Junior Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,103,04/02/25
+4151624925,28987090,Data Engineer,Full-time,Abridge,San Francisco, CA,Hospitals and Health Care,678,82,04/02/25
+4126534681,76262108,Data Engineer,Full-time,Kumo,Mountain View, CA,Software Development,535,200,04/02/25
+4149943363,51634180,Data Engineer,Contract,"Global Soft Systems, Inc.",Bentonville, AR,Information Technology & Services,727,200,04/02/25
+4120827290,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",200,25,04/02/25
+4143019026,210064,Data Engineer,Full-time,Genpact,New York, United States,Business Consulting and Services,677,34,04/02/25
+4137505474,15191764,"Data Engineer, 1+ Years of Experience",Full-time,Snap Inc.,Los Angeles, CA,Software Development,885,200,04/02/25
+3875375343,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,26,04/02/25
+4133956837,2646,Data Engineer III (Scala/Spark),Full-time,Walmart,Sunnyvale, CA,Retail,986,200,04/02/25
+4120915183,1586,"Data Engineer , Amazon Pharmacy",Full-time,Amazon,Bellevue, WA,Software Development,848,200,04/02/25
+4059227646,3106804,"Associate, Data Engineer",Full-time,Avant,Greater Chicago Area,IL,Financial Services,527,200,04/02/25
+4148680129,716360,Data Engineer,Full-time,"Princeton IT Services, Inc",Jersey City, NJ,Information Technology & Services,678,200,04/02/25
+4113934016,1482,Data Engineer,Full-time,PayPal,San Jose, CA,"Software Development, Financial Services, and Technology, Information and Internet",756,200,04/02/25
+4148902871,5234457,Data Engineer,Full-time,Hamilton Barnes 🌳,Denver, CO,IT Services and IT Consulting,972,200,04/02/25
+4149500701,383369,Data Engineer (Snowflake & Python),Contract,Irvine Technology Corporation,United States, United States,Information Services,972,200,04/02/25
+4024958481,66758119,Data Analytics Engineer,Full-time,Actifai,Washington, DC,Internet Publishing,686,200,04/02/25
+4148829726,18059273,Data Engineer: Big Data,Contract,MNJ SOFTWARE,Home, KS,IT Services and IT Consulting,789,200,04/02/25
+4148399499,96880536,Data Engineer,Full-time,Constellation Search Group,Baltimore, MD,Hospitals and Health Care,913,200,04/02/25
+4137886478,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",603,25,04/02/25
+4141636862,1821549,Data Engineer - Security,Full-time,FanDuel,Atlanta, GA,Gambling Facilities and Casinos and Spectator Sports,620,200,04/02/25
+3998841067,1431,Data Engineer,Full-time,PepsiCo,Plano, TX,Manufacturing and Food and Beverage Services,681,200,04/02/25
+4148967522,3042775,Data Engineer,Contract,Mondo,United States, United States,Biotechnology Research,808,200,04/02/25
+4144968701,28665250,Data Engineer,Full-time,"APiJET, LLC",Seattle, WA,Airlines and Aviation,522,200,04/02/25
+4129308634,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,609,76,04/02/25
+3890650480,3052223,Data Engineer (United States),Full-time,Demyst,United States, United States,"Technology, Information and Internet",200,200,04/02/25
+4125061634,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,572,25,04/02/25
+4151644417,35478479,Software Engineer,Full-time,Middesk,New York, NY,"Technology, Information and Internet",678,26,04/02/25
+4125071965,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,535,25,04/02/25
+4033428093,90667110,Data Engineer,Full-time,Ccube,Alpharetta, GA,Internet Publishing,759,200,04/02/25
+4126528742,5250800,"Data Engineer, L/S Equity",Full-time,Point72,Florida, United States,Financial Services,677,200,04/02/25
+4132131854,18722039,Data Engineer,Full-time,Canary Technologies,United States, United States,Hospitality,896,200,04/02/25
+4125548060,101021,Data Engineer,Full-time,Elder Research,United States, United States,IT Services and IT Consulting,609,200,04/02/25
+4128220538,1742506,Data Engineer,Contract,INSPYR Solutions,Vienna, VA,Banking and Financial Services,634,200,04/02/25
+4136795880,77837310,Data Engineer,Full-time,Camlin Group,Norcross, GA,"Services for Renewable Energy, Appliances, Electrical, and Electronics Manufacturing, and Technology, Information and Media",790,200,04/02/25
+4127595520,27007409,Data Engineer,Full-time,Aureon Consulting,Des Moines Metropolitan Area,IO,Financial Services and Insurance,507,200,04/02/25
+4147411881,18104003,AWS Data Engineer,Full-time,LSG Sky Chefs,Irving, TX,Food and Beverage Manufacturing,678,200,04/02/25
+4105081018,15901706,Data Engineer,Full-time,Compass Health Center,Northbrook, IL,Mental Health Care,972,200,04/02/25
+4119047235,102017555,Data Engineer,Full-time,SIDRAM TECHNOLOGIES,Charlotte, NC,"Technology, Information and Internet",620,200,04/02/25
+4125060554,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,627,30,04/02/25
+4046336836,11070,Data Engineer,Full-time,Ryan,Dallas, TX,Financial Services,200,122,04/02/25
+4130843721,7556,Data Engineer III,Full-time,Sam's Club,Sunnyvale, CA,Retail,572,200,04/02/25
+4127592723,164711,Data Engineer II,Full-time,Lennar,Irving, TX,Real Estate,754,200,04/02/25
+4118836224,165158,"Software Engineer L4/L5 - Data and Feature Infrastructure, Machine Learning Platform",Full-time,Netflix,Los Gatos, CA,Entertainment Providers,897,200,04/02/25
+4111225263,1469436,Data Engineer,Full-time,Omitron Inc.,Melbourne, FL,Defense & Space,789,144,04/02/25
+4125067664,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,742,25,04/02/25
+4125058810,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,742,25,04/02/25
+4129678250,164518,Data Engineer I,Full-time,Jackson,Nashville, TN,Financial Services and Insurance,503,200,04/02/25
+4122914153,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,812,63,04/02/25
+4145711967,2829078,Data Engineer (Remote),Full-time,RxAnte,Portland, ME,IT Services and IT Consulting,522,128,04/02/25
+4092101330,66321745,Junior Level Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,665,25,04/02/25
+4149218666,856702,Data Engineer,Full-time,RightClick,Fairfield County, CT,Software Development,730,200,04/02/25
+4124947687,2815,Jr. Data Engineer,Full-time,Aramark,Philadelphia, PA,Hospitality,911,200,04/02/25
+4139736588,101021,Data Engineer,Full-time,Elder Research,United States, United States,IT Services and IT Consulting,876,200,04/02/25
+4048812851,93246786,Data Engineer,Contract,Accroid Inc,Jersey City, NJ,IT Services and IT Consulting,798,152,04/02/25
+4099386336,100690228,Data Engineer,Contract,YO IT CONSULTING,Glendale, CA,"Technology, Information and Internet",944,35,04/02/25
+4085437538,22688,"Data Engineer Intern, 2025 Summer U.S.",Full-time,Atlassian,Austin, TX,Software Development,528,200,04/02/25
+4109240840,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,517,64,04/02/25
+4150342086,1337,Senior Software Engineer,Full-time,LinkedIn,Mountain View, CA,"Technology, Information and Internet and IT Services and IT Consulting",542,200,04/02/25
+4135299641,89936203,Data Engineer (Summer 2025 Intern),Full-time,Meetsta,United States, United States,Software Development,876,200,04/02/25
+4120829089,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",543,25,04/02/25
+4137001696,40655225,Data Engineer,Full-time,Omega Holdings,Irving, TX,Motor Vehicle Manufacturing,677,200,04/02/25
+4146189911,99080702,Data Engineer,Full-time,TIFIN AG,Charlotte, NC,Financial Services,560,200,04/02/25
+4013205397,93246786,Data Engineer,Contract,Accroid Inc,Jersey City, NJ,IT Services and IT Consulting,729,200,04/02/25
+4125062348,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,763,25,04/02/25
+4120825489,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",876,25,04/02/25
+4079998263,2833966,Data Engineer,Contract,TekSalt Solutions,Charlotte, NC,IT Services and IT Consulting,200,200,04/02/25
+4144495420,36232,Data Engineer,Contract,KellyMitchell Group,Orlando, FL,IT Services and IT Consulting,876,200,04/02/25
+4045411332,66321745,Junior Data engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,528,25,04/02/25
+4123387824,15691,Data Engineer,Full-time,Interstate Batteries,Dallas, TX,Manufacturing,958,200,04/02/25
+4119563821,15249661,Data Engineer,Full-time,The California State University,San Jose, CA,Higher Education,609,200,04/02/25
+3980082352,78445528,Data engineer,Contract,PRO IT USA,New York, NY,Human Resources,200,200,04/02/25
+4145108435,74012521,Data Engineer,Full-time,Evio,United States, United States,"Software Development, Technology, Information and Internet, and IT Services and IT Consulting",808,52,04/02/25
+4147274440,136203,Data Engineer,Contract,Droisys,United States, United States,Software Development,678,200,04/02/25
+4152199087,22456,Senior Data Engineer,Full-time,Beacon Hill,Frankford, NJ,Data Infrastructure and Analytics,678,200,04/02/25
+4139142257,2289109,"Data Engineer, Analytics (Technical Leadership)",Full-time,Instagram,New York, NY,"Technology, Information and Internet",560,25,04/02/25
+4125057967,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,901,25,04/02/25
+4137559516,7577299,Data Engineer,Full-time,Wider Circle,United States, United States,IT Services and IT Consulting,677,200,04/02/25
+3970352584,3650502,Data Engineer,Full-time,Figma,New York, NY,Design Services,802,200,04/02/25
+4125067236,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,838,25,04/02/25
+4052363228,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,508,152,04/02/25
+4117851033,523382,Data Engineer,Full-time,INVISTA,Wichita, KS,Chemical Manufacturing,511,200,04/02/25
+4118311237,66321745,Data Engineer - Junior,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,609,111,04/02/25
+4143623537,11028146,Data Engineer,Full-time,MotoRad Ltd.,Roswell, GA,Motor Vehicle Manufacturing,953,200,04/02/25
+4132895751,95313,Data Engineer,Contract,TalentBridge,San Jose, CA,Software Development and IT System Custom Software Development,620,200,04/02/25
+4137192129,1586,"Data Engineer, F3 DASH",Full-time,Amazon,Bellevue, WA,Software Development,894,146,04/02/25
+3875370889,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,45,04/02/25
+4149784405,1482,Software Engineer - Recent Graduate,Full-time,PayPal,San Jose, CA,"Software Development, Financial Services, and Technology, Information and Internet",680,123,04/02/25
+4120826371,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",836,25,04/02/25
+4125076115,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,986,25,04/02/25
+3875376305,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,34,04/02/25
+4087430535,36095797,Data Engineer,Full-time,EvenUp,San Francisco, CA,"Technology, Information and Internet",609,200,04/02/25
+4138391474,1586,"Data Engineer, Amazon Shipping",Full-time,Amazon,Bellevue, WA,Software Development,705,151,04/02/25
+4090674532,96668235,Data Engineer,Contract,"NasTech Global, Inc.,",Nashville, TN,IT Services and IT Consulting,609,200,04/02/25
+4090109946,49151727,Data Engineer,Full-time,Publicis Collective,New York, NY,Advertising Services,808,200,04/02/25
+4064417083,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,65,04/02/25
+4151639597,445873,Data Engineer,Part-time,McCarthy & Holthus LLP,San Diego, CA,Law Practice,678,65,04/02/25
+4146947895,23662,Data Engineer Intern,Internship,Kimball Midwest,Columbus, OH,Wholesale,551,200,04/02/25
+4114569752,1742506,Data Engineer,Contract,INSPYR Solutions,Vienna, VA,Banking and Financial Services,627,200,04/02/25
+4152142438,86694680,Senior Data Engineer,Full-time,Ascendion,McLean, VA,Banking and Financial Services,678,200,04/02/25
+4143007707,162515,Data Engineer,Full-time,Aristotle,Provo, UT,IT Services and IT Consulting,653,200,04/02/25
+4149180996,18476,Data Engineer,Contract,Brooksource,Cincinnati Metropolitan Area,OH,"Financial Services, Banking, and Investment Banking",678,200,04/02/25
+4151623319,1097,Data Engineer,Full-time,Verizon Data Services,Ashburn, VA,Telecommunications,678,47,04/02/25
+4130373024,66321745,Data Engineer (Junior),Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,858,200,04/02/25
+4148160102,9319439,Data Engineer,Full-time,Bombora,Reno, NV,"Technology, Information and Internet",678,200,04/02/25
+4136369909,101021,Data Engineer,Full-time,Elder Research,United States, United States,IT Services and IT Consulting,677,200,04/02/25
+4125068143,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,885,25,04/02/25
+4148243134,2433416,Data Engineer II,Full-time,Chewy,Plantation, FL,Retail,620,200,04/02/25
+4059574274,66321745,Junior Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,925,25,04/02/25
+4128621563,3653845,Software Engineer - Database Engineering,Full-time,Snowflake,Bellevue, WA,Software Development,507,200,04/02/25
+4145148222,1834233,Data Engineer II,Full-time,Mastercard Processing S.A.,Arlington, VA,Financial Services,609,25,04/02/25
+4109282447,2646,Data Engineer III,Full-time,Walmart,Sunnyvale, CA,Retail,657,200,04/02/25
+4091035973,1586,"Data Engineer, GSF",Full-time,Amazon,Bellevue, WA,Software Development,518,128,04/02/25
+4149110150,90439523,Software Engineer - LLM infrastructure,Full-time,Samooha,San Mateo, CA,Software Development,972,25,04/02/25
+4078225045,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,814,103,04/02/25
+4125059659,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,742,25,04/02/25
+4127871476,11104,Data Engineer,Full-time,"Broadcast Music, Inc. (BMI)",Nashville, TN,Musicians,572,200,04/02/25
+4081422480,33258172,Data Engineer,Full-time,Seneca Nation Group,Washington, DC,"Technology, Information and Internet",200,165,04/02/25
+4151561751,40787483,Senior Data Engineer,Full-time,Thryv,United States, United States,Marketing Services,678,200,04/02/25
+4125076116,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,535,25,04/02/25
+4148686745,3879704,Data Engineer Intern,Full-time,Republic Finance,Plano, TX,Financial Services,678,200,04/02/25
+4137563290,73072,Data Engineer Intern,Internship,Cadent,Jacksonville, FL,Advertising Services,767,200,04/02/25
+4117967811,2689946,Data Engineer,Contract,BayOne Solutions,Sunnyvale, CA,Retail,972,200,04/02/25
+4144534680,72742192,Data Engineer,Full-time,EDGE,Chicago, IL,Financial Services,677,200,04/02/25
+4125070004,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,943,25,04/02/25
+4131992393,2284,Data Engineer,Full-time,Dow Jones,Gaithersburg, MD,Online Audio and Video Media,901,200,04/02/25
+3917185512,11787695,Data Engineer,Full-time,ASCENDING Inc.,Fairfax, VA,Internet Publishing,200,200,04/02/25
+4150550646,4593,"Senior Leader, Data Analytics Engineering, Distinguished Engineer",Full-time,Western Digital,San Jose, CA,"Computer Hardware Manufacturing, Computers and Electronics Manufacturing, and Semiconductor Manufacturing",678,31,04/02/25
+4125065300,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,572,25,04/02/25
+4112699926,40783,Data Engineer,Full-time,Inceed,Oklahoma City, OK,Staffing and Recruiting,798,200,04/02/25
+4125058750,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,763,25,04/02/25
+4140342503,70099836,Data Engineer/Senior Data Engineer,Full-time,Volastra Therapeutics,New York, NY,"Technology, Information and Internet",620,148,04/02/25
+4147808808,1447520,Staff Data Engineer - Samsung Ads,Full-time,Samsung Electronics America,Mountain View, CA,Computers and Electronics Manufacturing,789,151,04/02/25
+4125072864,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,876,25,04/02/25
+4076509364,33246798,Software Engineer Graduate (Data - Search - TikTok.US ) - 2025 Start (BS/MS),Full-time,TikTok,San Jose, CA,Entertainment Providers,200,98,04/02/25
+4125072865,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,711,25,04/02/25
+4139522372,520950,Data Engineer,Other,R.E. Mason,Durham, NC,Software Development,560,51,04/02/25
+4144308499,1586,"Data Engineer, WWASFT",Full-time,Amazon,Bellevue, WA,Software Development,620,50,04/02/25
+4124384454,3493,Data Engineer,Full-time,Conagra Brands,Chicago, IL,Food and Beverage Services and Food and Beverage Manufacturing,200,200,04/02/25
+4125073020,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,832,25,04/02/25
+4075864846,3088,"Data Engineer 1 (Python, SQL, AWS)",Full-time,Travelers,Hartford, CT,Insurance,999,200,04/02/25
+4137787408,3358364,Data Engineer,Full-time,Artifact Uprising®,Denver, CO,Manufacturing,789,113,04/02/25
+4138643143,3965520,Senior Software/Data Engineer,Full-time,Checchi Capital,Beverly Hills, CA,Investment Management,705,200,04/02/25
+4117851034,523382,Data Engineer,Full-time,INVISTA,Wichita, KS,Chemical Manufacturing,771,200,04/02/25
+4127772210,226644,Data Engineer,Full-time,Sports Business Journal,United States, United States,Spectator Sports,572,200,04/02/25
+4148830630,18059273,Senior Data Engineer - ETL/ Big Data/ Hadoop,Full-time,MNJ SOFTWARE,Home, KS,IT Services and IT Consulting,678,200,04/02/25
+4125073023,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,507,25,04/02/25
+4151656739,67435,Data Engineer,Full-time,Connecticut Innovations,New Haven, CT,Utilities and Software Development,678,200,04/02/25
+4125069012,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,609,25,04/02/25
+4125059532,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,981,26,04/02/25
+4151529910,4725,IT Data Engineer - Remote,Full-time,Mayo Clinic,Rochester, MN,Hospitals and Health Care,730,200,04/02/25
+3970353535,3650502,Data Engineer,Full-time,Figma,New York, NY,Design Services,651,200,04/02/25
+4005089120,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,798,91,04/02/25
+4125060555,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,511,25,04/02/25
+4144189912,71664418,Data Engineer,Full-time,VRGL,Dallas, TX,Investment Management and Software Development,677,200,04/02/25
+3787726033,29550,Data Engineer -  IDELIC,Full-time,Innovation Works,Pittsburgh, PA,Internet Publishing,200,25,04/02/25
+4119933863,69639337,Data Engineer,Full-time,BeaconFire Inc.,New Jersey, United States,IT Services and IT Consulting,725,200,04/02/25
+4148737279,76322470,Data Engineer,Full-time,N-able,Austin, TX,IT Services and IT Consulting,953,200,04/02/25
+4109073488,72143958,Data Engineer (057-24),Full-time,"Anglicotech, LLC",Honolulu, HI,IT Services and IT Consulting,756,200,04/02/25
+4126615988,1586,"Data Engineer, Ads Finance",Full-time,Amazon,Bellevue, WA,Software Development,613,200,04/02/25
+4128478242,3088,Data Engineer I,Full-time,Travelers,Hartford, CT,Insurance,711,200,04/02/25
+4067136205,72008814,Data Engineer,Full-time,Ownwell,Austin, TX,"Technology, Information and Internet",799,200,04/02/25
+4056152068,81777085,Data Engineer,Full-time,Digital Janet,United States, United States,IT Services and IT Consulting,729,200,04/02/25
+4126025006,13703,Data Engineer,Full-time,Magna International,Lowell, MA,Motor Vehicle Manufacturing,763,200,04/02/25
+4108589304,9240,Data Engineer 2,Full-time,Garmin,Olathe, KS,Computers and Electronics Manufacturing,748,200,04/02/25
+4145881896,74742192,Engineering - Data Engineer,Full-time,Read AI,Seattle, WA,"Software Development, Technology, Information and Internet, and IT Services and IT Consulting",560,95,04/02/25
+4125067661,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,511,25,04/02/25
+4125439276,9240985,Data Engineer,Full-time,Shamrock Trading Corporation,Overland Park, KS,Truck Transportation,885,200,04/02/25
+4139680329,3076,Data Engineer,Full-time,Kforce Inc,Austin, TX,"Retail Office Equipment, E-Learning Providers, and Professional Training and Coaching",560,200,04/02/25
+4131908589,9344338,Data Engineer,Full-time,Heaven Hill Brands,Louisville, KY,Beverage Manufacturing,572,200,04/02/25
+4151565450,11400117,Senior Data Engineer,Full-time,Top Stack,King of Prussia, PA,Financial Services and Biotechnology Research,678,200,04/02/25
+4107714101,5001964,Data Engineer,Full-time,Curant Health,Smyrna, GA,Hospitals and Health Care,507,200,04/02/25
+4049569809,68021109,SQL Data Engineer,Full-time,Careers at Roambee,Dallas, TX,"Transportation, Logistics, Supply Chain and Storage",527,77,04/02/25
+4067535454,15749701,Data Engineer,Full-time,KDA CONSULTING INC,Herndon, VA,IT Services and IT Consulting,502,112,04/02/25
+4143426836,18043,Data Engineer,Full-time,Addison Group,Houston, TX,Services for Renewable Energy,560,200,04/02/25
+4119108782,300092,Data Engineer,Contract,wowbrands,Columbus, OH,Advertising Services,572,200,04/02/25
+4129950100,66321745,Data Engineer (Junior Level),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,818,30,04/02/25
+4125063292,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,696,25,04/02/25
+4142269222,35590008,Data Engineer,Contract,Rockwoods Inc,Virginia, United States,Information Technology & Services,677,200,04/02/25
+4142641497,2833966,Data Engineer- Java/Spark/SQL,Contract,TekSalt Solutions,Charlotte, NC,IT Services and IT Consulting,915,200,04/02/25
+4081433962,2646,(USA) Data Engineer III,Full-time,Walmart,Sunnyvale, CA,Retail,731,200,04/02/25
+4143030357,101021,Data Engineer,Full-time,Elder Research,United States, United States,IT Services and IT Consulting,789,200,04/02/25
+4151630958,445839,Junior Software Engineer (Python),Full-time,Synergy ECP,Annapolis Junction, MD,IT Services and IT Consulting,622,25,04/02/25
+4062253521,66321745,Data Engineer - Remote (Entry/Junor),Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,731,200,04/02/25
+4142625139,3076,Data Engineer,Contract,Kforce Inc,Austin, TX,"Retail Office Equipment, E-Learning Providers, and Professional Training and Coaching",522,200,04/02/25
+4125058929,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,711,25,04/02/25
+4113536565,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,972,102,04/02/25
+4125061490,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,729,25,04/02/25
+4125063409,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,876,25,04/02/25
+4068422830,2833966,Data Engineer,Contract,TekSalt Solutions,Charlotte, NC,IT Services and IT Consulting,200,200,04/02/25
+4123110702,69639337,Data Engineer,Contract,BeaconFire Inc.,New Jersey, United States,IT Services and IT Consulting,809,200,04/02/25
+4116239425,30324,Data Engineer,Contract,Intelliswift - An LTTS Company,Dublin, CA,Banking,925,200,04/02/25
+4125059681,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,609,25,04/02/25
+4125065179,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,725,25,04/02/25
+4034306310,81777085,Data Engineer,Full-time,Digital Janet,United States, United States,IT Services and IT Consulting,200,200,04/02/25
+4148897486,90439523,Software Engineer - Database Engineering,Full-time,Samooha,San Mateo, CA,Software Development,678,31,04/02/25
+4125928584,96308949,Data Engineer,Full-time,Elicit,Oakland, OR,Research Services,503,25,04/02/25
+4143854772,16167895,Data Engineer,Contract,Agility Partners,Cincinnati Metropolitan Area,OH,Financial Services,677,200,04/02/25
+4107126071,34209,Data Engineer,Full-time,Complex NTWRK,Los Angeles, CA,Online Audio and Video Media,972,200,04/02/25
+4125063909,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,744,25,04/02/25
+4139912338,1337,"Senior Software Engineer, AI Platform",Full-time,LinkedIn,Mountain View, CA,"Technology, Information and Internet and IT Services and IT Consulting",677,196,04/02/25
+4138569745,106170142,Data Engineer,Full-time,Luxevision Consulting LLC,San Marino, CA,Business Consulting and Services,511,136,04/02/25
+4064737217,3088,"Data Engineer I (AWS, Python, SQL)",Full-time,Travelers,Hartford, CT,Insurance,736,200,04/02/25
+4116217130,24015,Data Engineer,Full-time,Medpace,Cincinnati, OH,Pharmaceutical Manufacturing,677,200,04/02/25
+4150881064,83745,Sr. Data Engineer I (5540),Full-time,MetroStar,Washington, DC,"Technology, Information and Internet",678,136,04/02/25
+4148118932,207470,Data Engineer II - Music,Full-time,Spotify,New York, NY,Musicians,678,200,04/02/25
+4144544485,2610,Data Engineer Intern,Internship,Panasonic North America,Newark, NJ,"Appliances, Electrical, and Electronics Manufacturing",620,200,04/02/25
+4033089164,482314,Data Engineer 4,Full-time,"KCI, LLC",Charlotte, NC,Telecommunications,200,88,04/02/25
+4045414207,66321745,Junior/Entry Level Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,668,25,04/02/25
+4125067257,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,560,25,04/02/25
+4130354813,854801,Data Engineer,Full-time,Interclypse,Annapolis Junction, MD,IT Services and IT Consulting,711,200,04/02/25
+4136582865,349016,Data Engineer,Full-time,SBLI,Woburn, MA,Insurance,711,200,04/02/25
+4045412732,66321745,Remote Software Engineer (Junior/Entry),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,729,25,04/02/25
+3875376626,46623,Jr. Web Application Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,73,04/02/25
+4134392409,1222117,Data Engineer (Hybrid; Austin or Salt Lake City),Full-time,Ovivo,Round Rock, TX,Environmental Services,677,200,04/02/25
+4040237080,346779,Data Engineer - Onsite,Full-time,PrismHR,Chandler, AZ,"IT Services and IT Consulting, Software Development, and Human Resources Services",527,200,04/02/25
+4082899440,242227,Data Engineer,Full-time,SECU Credit Union,Linthicum, MD,Financial Services,910,200,04/02/25
+4146999043,9089,Data Engineer,Full-time,World Wide Technology,Issaquah, WA,IT Services and IT Consulting,678,200,04/02/25
+4145946996,18434905,Data Engineer,Full-time,Evolus,Newport Beach, CA,Wellness and Fitness Services,620,200,04/02/25
+3997339352,445839,Junior Software Engineer,Full-time,Synergy ECP,Annapolis Junction, MD,IT Services and IT Consulting,200,90,04/02/25
+4115180158,1309861,Data Engineer,Full-time,Medical Home Network,United States, United States,Hospitals and Health Care,788,200,04/02/25
+4139509984,96692,Data Engineer,Contract,"V-Soft Consulting Group, Inc.",Cincinnati, OH,IT Services and IT Consulting,522,200,04/02/25
+4087687943,11130470,"Software Engineer, Data Visualization",Full-time,OpenAI,San Francisco, CA,Research Services,598,200,04/02/25
+4144085315,92956375,Data Engineer,Full-time,IntelliTech,Alexandria, VA,Internet Publishing,560,25,04/02/25
+4125061970,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,572,25,04/02/25
+4101198629,521134,Data Engineer,Full-time,People Tech Group Inc,Seattle, WA,Information Services and IT Services and IT Consulting,592,200,04/02/25
+4129682269,69639337,Data Engineer,Full-time,BeaconFire Inc.,New Jersey, United States,IT Services and IT Consulting,677,200,04/02/25
+3970356046,3650502,Data Engineer,Full-time,Figma,New York, NY,Design Services,200,200,04/02/25
+4118880350,1798546,Data Engineer,Full-time,Foodsmart,United States, United States,Wellness and Fitness Services,677,200,04/02/25
+4150910058,18084,Backend Data Engineer,Full-time,Houston Rockets,Houston, TX,Spectator Sports,678,200,04/02/25
+3875373938,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,47,04/02/25
+4124666132,11213376,Data Engineer,Full-time,Orbis,Chantilly, VA,Government Relations,535,25,04/02/25
+4024748271,62869757,Data Engineer,Contract,First Soft Solutions LLC,Jersey City, NJ,IT Services and IT Consulting,200,200,04/02/25
+4125869370,19256,Data Engineer,Full-time,Prestige Staffing,City of Industry, CA,Retail Apparel and Fashion,507,200,04/02/25
+4084319724,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,711,107,04/02/25
+4137192238,33318412,Data Engineer,Full-time,Coterie Insurance,United States, United States,Insurance,560,200,04/02/25
+4144923231,25204,Data Engineer,Full-time,Golden State Foods,Irvine, CA,"Food Production, Manufacturing, and Transportation, Logistics, Supply Chain and Storage",620,200,04/02/25
+4144813986,1798047,Data Engineer,Contract,Associate Staffing,United States, United States,Staffing and Recruiting,767,200,04/02/25
+4125070440,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,742,25,04/02/25
+4143584213,18758749,Data Engineer,Full-time,Lucas James Talent Partners,Bloomington, MN,Staffing and Recruiting and Software Development,911,200,04/02/25
+4139519498,520950,Data Engineer,Other,R.E. Mason,Durham, NC,Software Development,789,32,04/02/25
+4139503782,83745,Data Engineer (5640),Full-time,MetroStar,Washington, DC,"Technology, Information and Internet",876,182,04/02/25
+4139684028,3076,Data Engineer,Contract,Kforce Inc,Austin, TX,"Retail Office Equipment, E-Learning Providers, and Professional Training and Coaching",603,200,04/02/25
+4125061356,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,742,25,04/02/25
+4103529909,10813033,Data Engineer II,Full-time,Hinge Health,San Francisco, CA,Software Development,742,200,04/02/25
+4150341019,628480,Data Engineer II,Full-time,PDI Technologies,Dallas, TX,Software Development,947,200,04/02/25
+4125067663,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,812,25,04/02/25
+4125065628,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,609,25,04/02/25
+4101229017,99282368,data engineer,Contract,Bright Mind Solutions LLC,United States, United States,"Computer and Network Security, Computer Networking Products, and Software Development",934,200,04/02/25
+4150508142,5303930,Analytics Data Engineer,Full-time,Climb Credit,New York City Metropolitan Area,NY,Financial Services,678,200,04/02/25
+4145097610,56432,Data Engineer (Databricks preferred),Contract,Next Ventures,Edison, NJ,"Banking, Capital Markets, and Financial Services",677,200,04/02/25
+3937770264,309694,Staff Data Engineer,Full-time,Airbnb,United States, United States,Software Development,200,200,04/02/25
+4092397608,75530431,Data Engineer,Full-time,Interwell Health,Boston, MA,"Technology, Information and Internet",828,200,04/02/25
+4125057968,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,677,25,04/02/25
+4151573046,167750,Associate Data Engineer,Full-time,Techstars,Denver, CO,Venture Capital and Private Equity Principals,678,200,04/02/25
+4151636813,10456809,Data Engineer,Full-time,OneSource Regulatory (A ProPharma Group Company),McKinney, TX,Pharmaceutical Manufacturing,678,50,04/02/25
+4130712616,10640787,Data Engineer,Full-time,Maven,Ohio, United States,"Information Services, Medical Equipment Manufacturing, and Health and Human Services",535,200,04/02/25
+4067743298,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,814,200,04/02/25
+3875375280,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,56,04/02/25
+3959436313,90432789,Data Engineer,Contract,LiveMarket,Boston, MA,Software Development,944,200,04/02/25
+4143747836,28591920,Data Engineer,Full-time,apexanalytix | Cyber Risk,Greensboro, NC,"Technology, Information and Internet",560,115,04/02/25
+4034340380,99282368,ETL Data Engineer,Contract,Bright Mind Solutions LLC,United States, United States,"Computer and Network Security, Computer Networking Products, and Software Development",729,200,04/02/25
+4137058734,10795459,Principal Data Engineer,Full-time,OneTrust,Atlanta, GA,Software Development,507,166,04/02/25
+4151464196,334570,Senior Data Engineer,Full-time,Intrepid,Arlington, VA,Defense and Space Manufacturing,972,25,04/02/25
+4125061491,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,560,25,04/02/25
+4002288222,10217975,Data Engineer,Full-time,"CACG, LLC",Fort George G. Meade, MD,Internet Publishing,200,200,04/02/25
+4132528897,5250800,"Data Engineer, Proprietary Research",Full-time,Point72,Florida, United States,Financial Services,818,172,04/02/25
+4120830016,2289109,"Data Engineer, Analytics (Technical Leadership)",Full-time,Instagram,New York, NY,"Technology, Information and Internet",958,54,04/02/25
+4135666879,93246786,Data Engineer - Databricks & Snowflake - Remote,Contract,Accroid Inc,Jersey City, NJ,IT Services and IT Consulting,609,200,04/02/25
+4152408062,34666,Data Engineer,Full-time,City Bank,Lubbock, TX,Financial Services,678,200,04/02/25
+4091039637,1586,"Data Engineer, GSF",Full-time,Amazon,Bellevue, WA,Software Development,200,180,04/02/25
+4133406220,91447303,Data Engineer,Full-time,Dexian,Westlake, TX,Insurance,771,200,04/02/25
+4127674883,9402,Data Engineer,Full-time,"Medline Industries, LP",Northbrook, IL,Medical Equipment Manufacturing,943,200,04/02/25
+4125065298,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,744,25,04/02/25
+4138569541,11816115,Junior Data Platform Engineer,Full-time,Revelio Labs,United States, United States,"Technology, Information and Media and Information Services",740,200,04/02/25
+4125059848,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,770,25,04/02/25
+4151658312,153364,Data Engineer,Full-time,Genesis Global Workforce Solutions,San Jose, CA,"Technology, Information and Media and Software Development",678,200,04/02/25
+4068070235,17933978,Software Engineer (Backend/Data),Full-time,Fathom,San Francisco, CA,"Technology, Information and Internet",200,200,04/02/25
+4146021591,2025248,Data Engineer,Full-time,Munetrix + SchoolData,United States, United States,Information Technology & Services,915,200,04/02/25
+4098837845,27191862,Data Engineer,Full-time,TapestryHealth,United States, United States,Hospitals and Health Care,511,200,04/02/25
+4125066945,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,609,25,04/02/25
+4076468844,217273,Data Engineer,Full-time,Ampcus Inc,Austin, TX,IT Services and IT Consulting,200,25,04/02/25
+4109399704,74615750,"Software Engineer, Backend - Data Platform",Full-time,Imprint,New York, NY,Financial Services,838,200,04/02/25
+4146807226,36211,Data Engineer,Full-time,Kobie Marketing,St. Petersburg, FL,"Technology, Information and Internet",522,200,04/02/25
+4152466831,35690611,Data Engineer,Contract,Infotree Global Solutions,Cupertino, CA,"IT Services and IT Consulting, Information Services, and Technology, Information and Media",678,200,04/02/25
+4143464184,3088,"Data Engineer I (Python, AWS, Databricks)",Full-time,Travelers,Hartford, CT,Insurance,680,146,04/02/25
+4125058769,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,901,25,04/02/25
+4125068540,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,754,25,04/02/25
+4125059680,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,562,25,04/02/25
+4125066081,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,809,25,04/02/25
+4120823767,10667,Data Analytics Engineer,Full-time,Meta,New York, NY,"Technology, Information and Internet",901,61,04/02/25
+4093671308,92634982,Data Engineer,Full-time,Copeland,St Louis, MO,Climate Technology Product Manufacturing,609,200,04/02/25
+4116701966,2412133,Data Engineer,Full-time,i360,Arlington, VA,IT Services and IT Consulting,725,200,04/02/25
+3950764417,2646,Data Engineer III,Full-time,Walmart,Sunnyvale, CA,Retail,200,200,04/02/25
+4151483850,1977526,Graduate Software Engineer- Seattle,Full-time,Rokt,Seattle, WA,"Advertising Services, Technology, Information and Internet, and Software Development",678,200,04/02/25
+4150493076,15258405,Senior Data Engineer,Full-time,Cloud Resources LLC,Texas, United States,IT Services and IT Consulting,947,200,04/02/25
+4081172525,1195377,Data Engineer (Remote),Full-time,KBRA,New York, NY,"Technology, Information and Internet",200,200,04/02/25
+4111743967,66321745,Junior/Entry Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,598,40,04/02/25
+4138246433,16939,Data Engineer,Full-time,"GOJO, Makers of PURELL",Akron, OH,"Chemical Manufacturing, Personal Care Product Manufacturing, and Manufacturing",943,200,04/02/25
+4139909594,1337,Senior Software Engineer - Systems and Infrastructure,Full-time,LinkedIn,Mountain View, CA,"Technology, Information and Internet and IT Services and IT Consulting",677,200,04/02/25
+4149495209,77158779,Data Engineer,Full-time,"VMC Soft Technologies, Inc",Sunnyvale, CA,IT Services and IT Consulting,609,200,04/02/25
+4045412670,66321745,Entry Level Data Engineer - Remote,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,620,25,04/02/25
+4142791618,85645770,Data Engineer,Full-time,Figure,Sunnyvale, CA,Machinery Manufacturing,677,75,04/02/25
+4142617065,16690,Data Engineer,Contract,Compunnel Inc.,Nashville, TN,IT Services and IT Consulting,677,200,04/02/25
+4125061969,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,945,25,04/02/25
+4124389920,3333121,Data Engineer,Full-time,CORMAC,United States, United States,IT Services and IT Consulting,782,193,04/02/25
+4125067259,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,767,25,04/02/25
+4066466046,102677437,Data Engineer,Contract,Starcom Consultant,Reston, VA,IT Services and IT Consulting,848,116,04/02/25
+4137192143,1586,"Data Engineer II, F3 DASH",Full-time,Amazon,Bellevue, WA,Software Development,609,132,04/02/25
+4150453995,16690,Senior Data Engineer,Full-time,Compunnel Inc.,Nashville, TN,IT Services and IT Consulting,678,200,04/02/25
+4125894178,65588154,Data Engineer,Contract,"Kelly Science, Engineering, Technology & Telecom",Johnston, IA,Motor Vehicle Manufacturing,767,200,04/02/25
+4107287430,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,511,62,04/02/25
+4133292915,10592585,Data Engineer,Full-time,Ledgent Technology,Portland, OR,Information Services,876,200,04/02/25
+4149902690,1277,"Software Engineer - Python, GCP",Full-time,American Express,Phoenix, AZ,Financial Services,678,200,04/02/25
+4143931712,529693,Data Engineer,Full-time,TextNow,New York, NY,"Telecommunications, IT Services and IT Consulting, and Software Development",789,200,04/02/25
+4113541935,11801243,Data Engineer,Full-time,Methods+Mastery,California, United States,Advertising Services,200,200,04/02/25
+4128413303,28417,Data Engineer,Contract,Ascendum Solutions,Cincinnati, OH,IT Services and IT Consulting,562,200,04/02/25
+4151495931,164159,"Senior Data Engineer-Data Engineering (Austin, San Antonio or Dallas)",Full-time,H-E-B,San Antonio, TX,Retail,620,132,04/02/25
+4118301205,1586,"Data Engineer, FinAuto, FinAuto - GREF Tech",Full-time,Amazon,Bellevue, WA,Software Development,708,90,04/02/25
+4151635849,52186161,"Software Engineer, Path Planning",Full-time,Pickle Robot Company,Cambridge, MA,Software Development,678,59,04/02/25
+4045412406,66321745,ENTRY LEVEL DATA ENGINEER (REMOTE),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,32,04/02/25
+4146764370,29308,Data Science Software Engineer,Full-time,StevenDouglas,Reston, VA,Staffing and Recruiting,678,200,04/02/25
+4125063911,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,943,25,04/02/25
+3875377182,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,53,04/02/25
+4146998313,3283052,Data Engineer II (Growth),Full-time,Grubhub,Chicago, IL,"Technology, Information and Internet",915,200,04/02/25
+4134096666,1058415,Data Engineer,Full-time,Benzinga,Detroit, MI,Online Audio and Video Media,668,140,04/02/25
+4152470849,57681755,Data Engineer,Contract,MWIDM,Reston, VA,"IT Services and IT Consulting, Financial Services, and IT System Operations and Maintenance",678,132,04/02/25
+4152481656,69732469,Sr. Data Engineer,Full-time,Acunor,San Francisco Bay Area,CA,Financial Services and Banking,678,41,04/02/25
+4115431156,15982140,Data Engineer,Full-time,Particle41,Texas City, TX,"Technology, Information and Internet",756,200,04/02/25
+4151638424,12580762,Data Engineer,Full-time,Mortgage Research Center,Columbia, MO,Advertising Services,678,200,04/02/25
+4122081026,157344,Data Engineer,Full-time,San José State University,San Jose, CA,Higher Education,809,200,04/02/25
+4132711320,17943955,Data Engineer,Full-time,Wiliot,Plano, TX,"Technology, Information and Internet",876,200,04/02/25
+4127761433,66321745,Junior/Entry Level Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,507,180,04/02/25
+4039904882,1503,Data Science Engineer,Full-time,Massachusetts Institute of Technology,Cambridge, MA,Higher Education,200,187,04/02/25
+4138362875,1028,Software/Data Engineer,Full-time,Oracle,Reston, VA,IT Services and IT Consulting,560,92,04/02/25
+4124858287,2661018,Data Engineer,Full-time,Tronair Inc.,Swanton, OH,Aviation and Aerospace Component Manufacturing,620,200,04/02/25
+4125057966,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,597,25,04/02/25
+4137711075,3486,Data Engineer,Full-time,Hays,Raleigh, NC,"IT System Data Services, Data Infrastructure and Analytics, and IT System Design Services",832,200,04/02/25
+4079501015,23717227,Data & Analytics Engineer,Full-time,Rinsed,New York, NY,"Technology, Information and Internet",200,200,04/02/25
+4146296190,1441,"Software Engineer III, Generative AI, Data Analytics",Full-time,Google,Sunnyvale, CA,"Information Services and Technology, Information and Internet",677,25,04/02/25
+4152406749,10476,Data Engineer,Contract,IonIdea,Bloomfield, CT,Information Technology & Services,678,200,04/02/25
+4048247696,280637,Software Data Engineer - LD,Full-time,Northstrat Incorporated,Colorado Springs, CO,IT Services and IT Consulting,901,25,04/02/25
+4143091738,5996,Data Engineer,Full-time,W. L. Gore & Associates,Newark, DE,Medical Equipment Manufacturing,711,200,04/02/25
+4096799444,134112,Data Engineer,Full-time,Garney Construction,North Kansas City, MO,Construction,913,200,04/02/25
+4067205797,102677437,Data Engineer,Contract,Starcom Consultant,Reston, VA,IT Services and IT Consulting,901,200,04/02/25
+4144919803,2531104,Data Engineer,Contract,"Connect Search, LLC",Chicago, IL,Manufacturing,677,200,04/02/25
+4118737469,71405910,Data Engineer,Full-time,"ACS Consultancy Services, Inc",United States, United States,IT Services and IT Consulting,664,200,04/02/25
+3875375341,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,41,04/02/25
+4125069340,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,668,25,04/02/25
+3875378307,46623,Jr. Web Application Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,651,44,04/02/25
+4125058812,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,535,25,04/02/25
+4125070023,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,511,25,04/02/25
+4126592463,81777085,Data Engineer,Full-time,Digital Janet,United States, United States,IT Services and IT Consulting,677,200,04/02/25
+3787900358,80873376,Data Engineer,Full-time,HR Professional Consulting,Louisiana, United States,Internet Publishing,200,25,04/02/25
+4105709034,99282368,Data Engineer II,Contract,Bright Mind Solutions LLC,United States, United States,"Computer and Network Security, Computer Networking Products, and Software Development",725,200,04/02/25
+4151638002,10456809,Data Engineer,Full-time,OneSource Regulatory (A ProPharma Group Company),McKinney, TX,Pharmaceutical Manufacturing,678,43,04/02/25
+4129882615,74475378,Software (Data) Engineer,Full-time,Acceler8 Talent,San Francisco Bay Area,CA,IT Services and IT Consulting,876,200,04/02/25
+4056090620,5094099,Data Engineer,Full-time,Block + Tackle,Atlanta Metropolitan Area,GO,Business Consulting and Services,668,200,04/02/25
+4135291879,82256378,Data Engineer,Full-time,Dorsia,Miami, FL,"Technology, Information and Internet",677,200,04/02/25
+4117642601,19283,Data Engineer,Full-time,Trinity Consultants,Dallas-Fort Worth Metroplex,TX,Environmental Services,848,200,04/02/25
+4152194549,2678950,Data Engineer,Contract,Golden Technology,United States, United States,IT Services and IT Consulting,678,200,04/02/25
+4147627929,9215489,"Principal Data Engineer - up to $160,000k base salary",Full-time,Saragossa,New York, United States,Financial Services,972,200,04/02/25
+4125059847,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,876,25,04/02/25
+4142274139,52638,Data Engineer,Contract,Mainz Brady Group,United States, United States,"Technology, Information and Media, Retail Apparel and Fashion, and Retail",560,200,04/02/25
+4001159711,13149,"Data Engineer (Python, Spark)",Contract,Mindteck,Columbus, OH,IT Services and IT Consulting,200,200,04/02/25
+4148992528,1304385,"Data Engineer, Hybrid",Full-time,AbbVie,Mettawa, IL,Pharmaceutical Manufacturing and Biotechnology Research,948,200,04/02/25
+4149256861,98846464,Senior Software Engineer - Data & Machine Learning,Full-time,1st10,Los Altos, CA,"Venture Capital and Private Equity Principals, Software Development, and Technology, Information and Internet",714,171,04/02/25
+4115711716,2240906,Cloud Data Engineer,Full-time,ITnova,Jersey City, NJ,"Technology, Information and Internet",609,64,04/02/25
+4149734695,102609,Data Engineer,Full-time,"GENESYS Consulting Services, Inc.",Utica, NY,Staffing and Recruiting,678,200,04/02/25
+4143054604,165602,Data Engineer.,Contract,"Pyramid Consulting, Inc",McLean, VA,Banking,808,200,04/02/25
+4076506315,33246798,Big Data Engineer Intern (Data Platform) - 2025 Summer/Fall (MS),Internship,TikTok,San Jose, CA,Entertainment Providers,648,200,04/02/25
+4150537036,36873,Data Engineer,Full-time,CubeSmart,Malvern, PA,Real Estate,678,200,04/02/25
+4086795940,81777085,Data Engineer,Full-time,Digital Janet,United States, United States,IT Services and IT Consulting,511,200,04/02/25
+4142857039,96692,Data Engineer 4,Contract,"V-Soft Consulting Group, Inc.",Cincinnati, OH,IT Services and IT Consulting,740,200,04/02/25
+4150497390,8598,Data Engineer,Full-time,MAPFRE,Webster, MA,Insurance,678,200,04/02/25
+3809830050,3657,Data Engineer,Full-time,Penn State University,University Park, PA,Higher Education,200,25,04/02/25
+4040213436,439859,Data Engineer,Full-time,Qualis LLC,Washington, DC,IT Services and IT Consulting,588,72,04/02/25
+4045411757,66321745,Junior Level Software Engineer (REMOTE),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,624,41,04/02/25
+4083512174,81777085,Data Engineer,Full-time,Digital Janet,United States, United States,IT Services and IT Consulting,731,200,04/02/25
+4136152721,1128772,Data Engineer,Contract,HKA Enterprises,United States, United States,IT Services and IT Consulting,789,200,04/02/25
+4056938562,81777085,Data Engineer,Full-time,Digital Janet,United States, United States,IT Services and IT Consulting,611,200,04/02/25
+4152471245,18377405,Sr Data Platform Engineer,Full-time,Lightmatter,Mountain View, CA,Construction,678,34,04/02/25
+4105547525,66321745,Junior Level Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,543,122,04/02/25
+4129695221,9353551,Data Analytics Engineer,Full-time,Hearst Health,Dallas, TX,Hospitals and Health Care,711,200,04/02/25
+4150470918,3076,Data Engineer - Strategy,Contract,Kforce Inc,Austin, TX,"Retail Office Equipment, E-Learning Providers, and Professional Training and Coaching",678,200,04/02/25
+4147295198,3088,"Data Engineer II (AWS, Python)",Full-time,Travelers,Hartford, CT,Insurance,620,109,04/02/25
+4076510359,33246798,"Data Engineer, Global Live",Full-time,TikTok,San Jose, CA,Entertainment Providers,668,200,04/02/25
+4126622098,1586,"Data Engineer, GSF, Data Platform Team",Full-time,Amazon,Bellevue, WA,Software Development,677,58,04/02/25
+4119105769,96692,Advanced Data Engineer 100% Remote,Contract,"V-Soft Consulting Group, Inc.",Cincinnati, OH,IT Services and IT Consulting,770,200,04/02/25
+4056821856,80427781,"Senior, Data Engineer - Data Ventures",Full-time,Walmart Data Ventures,Sunnyvale, CA,Data Infrastructure and Analytics,668,200,04/02/25
+4045413592,66321745,Junior/Entry Level Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,682,25,04/02/25
+3875377500,46623,Jr. Web Application Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,38,04/02/25
+4151644976,10456809,Data Engineer,Full-time,OneSource Regulatory (A ProPharma Group Company),McKinney, TX,Pharmaceutical Manufacturing,678,26,04/02/25
+4126532404,18270648,"Staff Data Engineer, Analytics",Full-time,Afresh,San Francisco, CA,Software Development,677,78,04/02/25
+4045410901,66321745,Junior Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,668,25,04/02/25
+4106963882,81777085,Data Engineer,Full-time,Digital Janet,United States, United States,IT Services and IT Consulting,515,200,04/02/25
+4137192139,1586,"Data Engineer II, F3 DASH",Full-time,Amazon,Bellevue, WA,Software Development,711,93,04/02/25
+4084017964,81933911,Data Engineer,Full-time,SumerSports,New York, NY,"Technology, Information and Internet",511,200,04/02/25
+4124174496,16229187,Data Engineer,Full-time,CGS,Florida, United States,IT Services and IT Consulting,901,38,04/02/25
+4142811546,65529778,Data Engineer,Contract,iO Associates - US,Richmond, VA,Data Infrastructure and Analytics,677,200,04/02/25
+4139608302,1586,"Data Engineer II, Davengers",Full-time,Amazon,Bellevue, WA,Software Development,522,34,04/02/25
+4151625059,1120204,Data Analytics Engineer III,Full-time,MyFitnessPal,Austin, TX,Software Development,678,45,04/02/25
+4151628081,36095797,Software Engineer - Backend (All Levels),Full-time,EvenUp,San Francisco, CA,"Technology, Information and Internet",678,25,04/02/25
+4142290910,68541971,Data Engineer,Full-time,Ensemble VC,Austin, Texas Metropolitan Area,Venture Capital and Private Equity Principals,560,200,04/02/25
+3955779327,15401201,Data Engineer,Full-time,Venture Global LNG,Arlington, VA,"Technology, Information and Internet",200,200,04/02/25
+4130677826,874210,Data Engineer,Full-time,Food52,Brooklyn, NY,"Retail, Retail Furniture and Home Furnishings, and Food and Beverage Retail",767,200,04/02/25
+4125069341,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,744,25,04/02/25
+4065665156,92632994,Backend/Data Engineer,Full-time,Sweetspot (YC S23),New York, NY,Software Development,972,200,04/02/25
+4076510190,33246798,"Data Engineer, Data Application",Full-time,TikTok,San Jose, CA,Entertainment Providers,711,200,04/02/25
+4129673890,12953980,Cloud Data Engineer,Full-time,PuppySpot,United States, United States,Internet Marketplace Platforms,767,200,04/02/25
+4005083923,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,77,04/02/25
+4045013672,96668235,Data Engineer,Contract,"NasTech Global, Inc.,",Nashville, TN,IT Services and IT Consulting,804,200,04/02/25
+4149604390,1586,Data Engineer Summer Internship – 2025 (CAN),Full-time,Amazon,Bellevue, WA,Software Development,678,200,04/02/25
+4141447077,60798,Software Database Engineer 4,Contract,Protingent,Mountain View, CA,Engineering Services,789,91,04/02/25
+4132934747,11829683,Data Engineer,Full-time,Buyers Edge Platform,United States, United States,Hospitality,711,200,04/02/25
+4147614611,2904,Data Engineer,Full-time,City of New York,Bronx, NY,Government Administration,678,200,04/02/25
+4127832314,2550297,Data Engineer,Contract,AllianceIT Inc,United States, United States,IT Services and IT Consulting and Software Development,511,200,04/02/25
+4138897478,32150,Associate Data Engineer,Full-time,Denodo,New York, NY,Software Development,677,200,04/02/25
+4033183105,71405910,Data Engineer,Full-time,"ACS Consultancy Services, Inc",United States, United States,IT Services and IT Consulting,200,200,04/02/25
+4048255177,71405910,Data Engineer,Full-time,"ACS Consultancy Services, Inc",United States, United States,IT Services and IT Consulting,972,200,04/02/25
+4139348121,1353,Data Engineer,Full-time,Tata Consultancy Services,Atlanta, GA,IT Services and IT Consulting,677,200,04/02/25
+4133378315,72186786,Data Engineer,Full-time,Common Room,United States, United States,Software Development,560,200,04/02/25
+4138895694,32150,Data Engineer,Full-time,Denodo,New York, NY,Software Development,507,200,04/02/25
+4069931440,71405910,Data Engineer,Full-time,"ACS Consultancy Services, Inc",United States, United States,IT Services and IT Consulting,592,200,04/02/25
+4076510269,33246798,"Data Engineer, Experimentation & Evaluation-TikTok Data Platform",Full-time,TikTok,San Jose, CA,Entertainment Providers,508,171,04/02/25
+3875372893,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,200,38,04/02/25
+4064935590,80517752,Software Engineer - Pretraining Data,Full-time,Magic,San Francisco, CA,Software Development,598,172,04/02/25
+4131890753,4854165,Data Engineer,Contract,Gravity IT Resources,Cincinnati, OH,Aviation and Aerospace Component Manufacturing,896,200,04/02/25
+4146501325,7412,SAP Data Engineer,Full-time,AutoZone,Memphis, TN,Retail,620,40,04/02/25
+4099248128,1586,"Data Engineer, Alexa",Full-time,Amazon,Bellevue, WA,Software Development,809,147,04/02/25
+4138248188,4787585,"Senior Data Engineer, Ring Data Science and Engineering",Full-time,Ring,Hawthorne, CA,Computers and Electronics Manufacturing,876,200,04/02/25
+3988611969,78445528,Data Engineer,Contract,PRO IT USA,New York, NY,Human Resources,200,200,04/02/25
+4062571557,62869757,Data Engineer,Contract,First Soft Solutions LLC,Jersey City, NJ,IT Services and IT Consulting,711,200,04/02/25
+4144720009,9385135,Data Engineer- 2989077,Full-time,AMS Staffing Inc.,Washington, DC,Staffing and Recruiting,560,200,04/02/25
+4147570045,66321745,Junior Software Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,620,25,04/02/25
+4151306827,27179912,Senior Data Engineer,Full-time,Arrow Search Partners,Denver, CO,Staffing and Recruiting,620,200,04/02/25
+4132360072,16690,Data Engineer,Contract,Compunnel Inc.,Nashville, TN,IT Services and IT Consulting,677,200,04/02/25
+4125206597,3684,Data Engineer,Full-time,Mastech Digital,Dallas-Fort Worth Metroplex,TX,"Banking, Investment Banking, and Financial Services",560,200,04/02/25
+4143571018,5140,Data Engineer,Full-time,Virtusa,Irving, TX,IT Services and IT Consulting,677,122,04/02/25
+4045409554,66321745,Data Engineer(Entry),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4120830018,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",894,25,04/02/25
+4144101047,10378230,Data Engineer,Full-time,Bcore,Chantilly, VA,IT Services and IT Consulting,677,41,04/02/25
+4150173276,72055323,"AWS Data Engineer- Snowflake, PySpark &KafKa",Full-time,Artmac,Dallas, TX,Software Development,678,200,04/02/25
+4125061536,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,507,25,04/02/25
+4120824557,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",876,25,04/02/25
+4151649586,89247641,Senior Data Engineer,Full-time,Deep Sync,Kirkland, WA,Marketing Services,678,52,04/02/25
+4138814402,162656,Data Engineer,Contract,Bayside Solutions,Dublin, CA,IT System Data Services,659,200,04/02/25
+4128397598,74615750,Data Engineer,Full-time,Imprint,New York, NY,Financial Services,677,200,04/02/25
+4149011555,860823,Data Engineer,Full-time,Northgate Market,Anaheim, CA,Retail Groceries,678,200,04/02/25
+4150543679,157240,Data Engineer,Full-time,Capgemini,Atlanta, GA,IT Services and IT Consulting,727,200,04/02/25
+4151648318,6825144,Data Engineer,Full-time,RADcube,Indianapolis, IN,IT System Custom Software Development,678,29,04/02/25
+4143046926,16690,Data Engineer,Full-time,Compunnel Inc.,Nashville, TN,IT Services and IT Consulting,677,200,04/02/25
+4151626407,10148384,Data Engineer,Full-time,Healthy Alliance,Schenectady, NY,Non-profit Organizations,678,101,04/02/25
+4063504178,11197463,Data Engineer,Contract,PeopleCaddie,Cincinnati, OH,Financial Services,732,200,04/02/25
+4096368429,1562578,Data Engineer,Full-time,Atlantis University,Miami, FL,Higher Education,609,200,04/02/25
+4127756199,2499560,Data Engineer,Full-time,Incedo Inc.,Cleveland, OH,IT Services and IT Consulting,876,200,04/02/25
+4074706598,66321745,Data Engineer - Remote,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,200,04/02/25
+4143964604,18476,Data Engineer,Contract,Brooksource,Cincinnati Metropolitan Area,OH,"Financial Services, Banking, and Investment Banking",677,200,04/02/25
+4024336959,82159342,Data Engineer - DeFi,Full-time,Career Renew,United States, United States,IT Services and IT Consulting,200,200,04/02/25
+4034573609,77685626,Data Engineer,Full-time,MARSHALL TECHNOLOGIES INC,McLean, VA,IT Services and IT Consulting,848,200,04/02/25
+4125060228,27116538,Data Engineer,Full-time,ThinkTek,Washington, DC,Business Consulting and Services,763,172,04/02/25
+4144364300,16167788,Data Engineer,Full-time,Epsilon EMEA,Atlanta, MI,Advertising Services,972,27,04/02/25
+4125125313,347778,Data Engineer,Full-time,MFour Mobile Research,Kansas City, MO,Market Research,560,200,04/02/25
+4129999535,66321745,Junior Data Engineer,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,705,112,04/02/25
+4030667455,23441,Data Analytics Engineer,Full-time,Camping World,Lincolnshire, IL,Retail,200,200,04/02/25
+4149235974,503474,Data Engineer,Full-time,Miami Marlins and loanDepot park,Miami, FL,Spectator Sports,714,200,04/02/25
+4139521679,72825,Data Engineer,Full-time,Anblicks,Dallas, TX,"IT Services and IT Consulting, Software Development, and Data Infrastructure and Analytics",677,200,04/02/25
+4124384456,3493,Data Engineer,Full-time,Conagra Brands,Chicago, IL,Food and Beverage Services and Food and Beverage Manufacturing,508,200,04/02/25
+4118097928,2190,Staff Data Engineer,Full-time,Visa,Mentor, OH,IT Services and IT Consulting,507,200,04/02/25
+4133254332,3595,Sports Data Engineer,Full-time,ESPN,Bristol, CT,Broadcast Media Production and Distribution,771,200,04/02/25
+4115784862,2947777,Data Engineer (Remote),Full-time,iWorks Corporation,Reston, VA,IT Services and IT Consulting,508,120,04/02/25
+4069874946,79693228,Data Engineer,Full-time,Atmospheric G2,Manchester, NH,Financial Services,802,200,04/02/25
+3915650409,11130470,"Analytics Data Engineer, Applied Engineering",Full-time,OpenAI,San Francisco, CA,Research Services,200,200,04/02/25
+4149833129,1128772,Data Engineer,Full-time,HKA Enterprises,United States, United States,IT Services and IT Consulting,678,200,04/02/25
+4045411776,66321745,Remote Software Engineer (Junior/Entry),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4125067256,11300833,Data Engineer,Full-time,CGS Federal (Contact Government Services),Los Angeles, CA,Software Development,677,25,04/02/25
+4045410885,66321745,Remote Software Engineer (Junior/Entry),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4124797602,64515483,Staff Data Engineer,Full-time,Nayya,New York, NY,Software Development,917,200,04/02/25
+4151632924,2825305,Data Engineer,Full-time,Catalytic Data Science,Westport, CT,Biotechnology Research,714,45,04/02/25
+4120822730,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",972,25,04/02/25
+4134403760,56445,"Data Engineer, Hospital",Full-time,Odyssey Information Services,Dallas-Fort Worth Metroplex,TX,IT Services and IT Consulting and Hospitals,507,200,04/02/25
+4151634897,90415924,"Software Engineer, ML Platform (All levels)",Full-time,Overland AI,Seattle, WA,Defense and Space Manufacturing,678,33,04/02/25
+4123905444,66321745,Data Engineer - Remote,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,711,25,04/02/25
+4141499375,45680,Data Engineer,Full-time,Vanda Pharmaceuticals,Washington, DC,"Pharmaceutical Manufacturing, Biotechnology Research, and Hospitals and Health Care",560,200,04/02/25
+4126028458,3152304,Data Analytics Engineer,Full-time,Trolley House Refreshments,Henrico, VA,Food & Beverages,901,73,04/02/25
+4045412560,66321745,Software Engineer - Junior Level(Remote),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4118544073,18503560,Software Engineer (AI System),Full-time,TechMasters,South San Francisco, CA,Software Development,742,28,04/02/25
+4084557055,66321745,Entry Level Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,609,47,04/02/25
+4063772757,801292,Data Engineer III,Full-time,ABSC (Absolute Business Solutions Corp.),Fort Belvoir, VA,Defense & Space,200,25,04/02/25
+4151647150,8194,Data Engineer,Full-time,Axcelis Technologies,Beverly, MA,Semiconductor Manufacturing,678,47,04/02/25
+4138569748,106170142,Data Engineer,Full-time,Luxevision Consulting LLC,San Marino, CA,Business Consulting and Services,560,122,04/02/25
+4150457380,2302613,Data Engineer,Full-time,National Safety Apparel,Cleveland, OH,Manufacturing,678,200,04/02/25
+4148901841,92893317,Founding Software Engineer – Data Infrastructure,Full-time,Windfall Bio,San Mateo, CA,"Technology, Information and Internet",678,37,04/02/25
+4127753445,165602,Python Data Engineer,Contract,"Pyramid Consulting, Inc",McLean, VA,Banking,876,200,04/02/25
+4138895693,32150,Data Engineer,Full-time,Denodo,New York, NY,Software Development,677,200,04/02/25
+4051841829,11137552,Data Engineer - Active TS/SCI,Full-time,Veracity Software Inc,Jersey City, NJ,IT Services and IT Consulting,972,75,04/02/25
+4150916918,5279801,"Software Engineer Co-op, Firmware",Internship,Bose Professional,Hopkinton, MA,Internet Publishing,947,106,04/02/25
+4092494925,3559341,"Senior Software Engineer, Brand",Full-time,Handshake,San Francisco, CA,"Technology, Information and Internet and Software Development",770,160,04/02/25
+4067600259,5827,Data Engineer 2,Full-time,University of Oregon,Eugene, OR,Higher Education,814,200,04/02/25
+4127926785,94207,Junior Software Engineer,Full-time,"Pango Technology, Inc.",Anchorage, AK,Internet Publishing,858,200,04/02/25
+4137003016,25074192,Data Engineer,Full-time,Datavant,United States, United States,Software Development,677,200,04/02/25
+4147106379,5322,Data Engineer,Full-time,ALTEN,Colorado, United States,IT Services and IT Consulting,678,25,04/02/25
+4063198386,66321745,Data Engineer (Entry Level) - Remote,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,732,200,04/02/25
+4126276782,2748,Data Visualization Engineer,Full-time,Colgate-Palmolive,Piscataway, NJ,"Manufacturing, Transportation, Logistics, Supply Chain and Storage, and Retail",972,200,04/02/25
+4151623332,3833190,Data Engineer,Full-time,Twenty Ideas,Eugene, OR,Software Development,808,64,04/02/25
+4123368924,84838512,Data Engineer,Contract,ShanuDT IT Solutions INC,Texas, United States,Information Technology & Services,507,200,04/02/25
+4080102053,1956,Healthcare Data Engineer,Full-time,Sogeti,Greater Minneapolis-St. Paul Area,MN,IT Services and IT Consulting,972,200,04/02/25
+4143934303,529693,Data Engineer,Full-time,TextNow,New York, NY,"Telecommunications, IT Services and IT Consulting, and Software Development",677,200,04/02/25
+4045412628,66321745,Junior Level Software Engineer (REMOTE),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4120828067,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",901,25,04/02/25
+4138835331,3537,Data Engineer,Full-time,Macquarie Group,Houston, TX,Financial Services,972,200,04/02/25
+4149111541,90439523,Software Engineer - Streamlit Open Source,Full-time,Samooha,San Mateo, CA,Software Development,678,123,04/02/25
+4143829072,50820,"Senior Data Engineer | DWH ETL (PL/SQL, Data-marts, Snowflake, SOQL/NetSuite)",Contract,"netPolarity, Inc. (Saicon Consultants, Inc.)",San Jose, CA,"IT Services and IT Consulting, Software Development, and IT System Custom Software Development",789,143,04/02/25
+4137003406,18977,Data Engineer (Python/PySpark/AWS),Full-time,Infinitive,Ashburn, VA,Business Consulting and Services,711,200,04/02/25
+4131023581,29170,"Intern, Data Engineer (Spring 2025)",Internship,Wiss,Florham Park, NJ,Accounting,560,200,04/02/25
+4045414137,66321745,Junior Level Software Engineer (REMOTE),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,901,38,04/02/25
+4116424990,66321745,Data Engineer - Remote,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,742,41,04/02/25
+4143462443,3088,"Data Engineer II (Python, AWS, Databricks)",Full-time,Travelers,Hartford, CT,Insurance,767,64,04/02/25
+4143935147,529693,Data Engineer,Full-time,TextNow,New York, NY,"Telecommunications, IT Services and IT Consulting, and Software Development",522,200,04/02/25
+4116431023,66321745,Data Engineer - Remote,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,901,89,04/02/25
+4151352416,1315115,Data Engineer,Contract,Widen the Net Limited,Houston, TX,"Software Development, IT Services and IT Consulting, and Technology, Information and Media",678,200,04/02/25
+4146058231,2385278,Data Engineer,Full-time,Precision Technologies,Jersey City, NJ,IT Services and IT Consulting,507,200,04/02/25
+4151634663,81884531,Data Engineer,Full-time,CSU Careers,San Jose, CA,Higher Education,678,74,04/02/25
+4152004185,104411273,"Software Engineer, Backend",Full-time,Arcade,San Francisco, CA,"Technology, Information and Internet",678,41,04/02/25
+4045410859,66321745,Remote Software Engineer (Junior/Entry),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4132707409,79383535,Data Engineer,Full-time,Akkodis,Omaha, NE,IT Services and IT Consulting,677,200,04/02/25
+3990955818,35516092,Data Engineer,Contract,"InfoSmart Technologies, Inc",Indiana, United States,Information Technology & Services,200,200,04/02/25
+4077297411,1636943,"Databricks Data Engineer / Data Engineer, Databricks, 24-13040",Full-time,"TeamBradley, Inc.",Addison, IL,Manufacturing,732,200,04/02/25
+4119679711,29619,Data Engineer - Python/Airflow Developer,Full-time,HALO Branded Solutions,Illinois, United States,Advertising Services,809,200,04/02/25
+4091949778,3631,Data Engineer,Full-time,MassMutual,Springfield, MA,Financial Services,611,200,04/02/25
+4094015693,14858,Data Engineer,Full-time,Isagenix,Gilbert, AZ,Wellness and Fitness Services,507,200,04/02/25
+4115777013,101021,Data Engineer (Hybrid),Full-time,Elder Research,United States, United States,IT Services and IT Consulting,711,200,04/02/25
+4145919840,3076,AI Data Engineer,Contract,Kforce Inc,Austin, TX,"Retail Office Equipment, E-Learning Providers, and Professional Training and Coaching",560,200,04/02/25
+4151629160,55702,Amazon Connect Data Engineer,Full-time,InterVision Systems,Chesterfield, MO,IT Services and IT Consulting,678,25,04/02/25
+4120820991,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",770,25,04/02/25
+4117829484,285112,Data Engineer,Full-time,"Omnitech, Inc.",Sioux Falls, SD,Information Technology & Services,742,200,04/02/25
+4130033608,18007,Staff Data Engineer ( Boston or Chicago ),Full-time,Press Ganey,Chicago, IL,Hospitals and Health Care,560,171,04/02/25
+4045413438,66321745,Entry Level Data Engineer (Remote),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,763,25,04/02/25
+4152160855,11712114,Data Engineer,Full-time,Traxen,Plymouth, MI,Truck Transportation,678,200,04/02/25
+4144990891,95313,Data Engineer,Contract,TalentBridge,San Jose, CA,Software Development and IT System Custom Software Development,560,200,04/02/25
+3892472435,82316701,Data Science Engineer,Full-time,nurdsoft,United States, United States,Internet Publishing,200,200,04/02/25
+4045411575,66321745,Entry Level Data Engineer (Remote),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,901,25,04/02/25
+4137036103,2010798,Data Engineer - AWS,Full-time,Tiger Analytics,Charlotte, NC,IT Services and IT Consulting,522,31,04/02/25
+4152449308,267137,Data Engineer,Full-time,Public Health Solutions,New York, NY,Non-profit Organizations,678,126,04/02/25
+4151644053,68302528,Software Engineer — Compute Platform,Full-time,Snorkel AI,San Francisco, CA,Software Development,678,36,04/02/25
+4112914172,66321745,Junior Software Engineer (Remote),Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,972,193,04/02/25
+4136239366,1910344,Data Engineer,Contract,Talution Group,Rosemont, IL,IT Services and IT Consulting,677,200,04/02/25
+4127748524,1732084,Data Visualization Engineer (PowerBI),Full-time,Aperia,Omaha, NE,"Technology, Information and Internet",677,80,04/02/25
+4119482874,66321745,Junior Software Engineer (Remote),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,771,45,04/02/25
+4106731140,1292,Lead Data Engineer,Full-time,The Walt Disney Company,Santa Monica, CA,Entertainment Providers,828,46,04/02/25
+4045412720,66321745,Data Engineer - Remote,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4136915958,18106262,Senior Software Engineer - Infrastructure,Full-time,CloudKitchens,Mountain View, CA,"Real Estate, Data Infrastructure and Analytics, and Information Services",560,71,04/02/25
+4120822724,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",725,25,04/02/25
+4151511276,18476,Data Engineer,Full-time,Brooksource,Cincinnati Metropolitan Area,OH,"Financial Services, Banking, and Investment Banking",622,200,04/02/25
+4120827322,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",876,200,04/02/25
+4138871327,3765,Data Engineer/Developer,Full-time,GroupM,New York, NY,Advertising Services,507,200,04/02/25
+4138249609,33636,Azure Data Engineer,Full-time,Rheem Manufacturing,Atlanta, GA,Manufacturing,677,200,04/02/25
+4122508992,1415,Data Engineer,Full-time,CGI,United States, United States,IT Services and IT Consulting,917,200,04/02/25
+4120743018,18007,Staff Data Engineer ( Chicago or Boston ),Full-time,Press Ganey,Chicago, IL,Hospitals and Health Care,808,200,04/02/25
+3696899083,79907466,Data Engineer,Full-time,Allnessjobs,Washington, DC,Human Resources Services,200,25,04/02/25
+4127811315,96139831,Data Engineer,Contract,DataAnnotation,United States, United States,"Software Development, Computer and Network Security, and Engineering Services",876,200,04/02/25
+4149953083,165602,Data Engineer,Contract,"Pyramid Consulting, Inc",McLean, VA,Banking,622,200,04/02/25
+4045416052,66321745,Data Engineer - Remote,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4138437124,1586,"Data Engineer - AI/ML, Amazon Robotics",Full-time,Amazon,Bellevue, WA,Software Development,711,112,04/02/25
+4143583675,10196036,Data Engineer (Foundry Workshop),Full-time,SNGULAR,United States, United States,Information Technology & Services,560,124,04/02/25
+4078427663,23772,"Data Engineer, Research & Development",Full-time,Houston Astros,Houston, TX,Spectator Sports,732,200,04/02/25
+4145176711,25030011,Data Engineer,Full-time,Accenture Federal Services,Virginia, United States,IT Services and IT Consulting,677,47,04/02/25
+4138818048,162656,Data Engineer,Contract,Bayside Solutions,Dublin, CA,IT System Data Services,507,200,04/02/25
+4132748771,35143,Data Engineer,Full-time,"Modern Technology Solutions, Inc. (MTSI)",Colorado Springs, CO,Space Research and Technology,677,200,04/02/25
+4151641970,18244263,Healthcare Data Engineer (LANES),Full-time,Heluna Health,Los Angeles, CA,Non-profit Organizations,678,58,04/02/25
+4130462605,218487,Data Engineer,Full-time,Business Knowledge Services,Maryland, United States,"IT System Custom Software Development, IT System Data Services, and IT Services and IT Consulting",560,200,04/02/25
+4151321464,11855072,Senior Data Engineer,Full-time,Dune,United States, United States,Software Development,678,200,04/02/25
+4120827285,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",560,25,04/02/25
+4149259819,11241935,Senior Software Engineer - Cloud Infrastructure,Full-time,Engtal,Austin, TX,Services for Renewable Energy,727,158,04/02/25
+4045416336,66321745,Junior/Entry Level Software Engineer - Remote,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4149722974,9402,Data Engineer,Full-time,"Medline Industries, LP",Northbrook, IL,Medical Equipment Manufacturing,678,200,04/02/25
+4045411716,66321745,Junior/Entry Level Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,731,25,04/02/25
+3992356957,91445367,Data Engineer III (Contingent),Full-time,ARETUM,Fort Belvoir, VA,"Technology, Information and Internet",200,200,04/02/25
+4138872120,3765,Data Engineer/Developer,Full-time,GroupM,New York, NY,Advertising Services,953,200,04/02/25
+4045409561,66321745,Data Science Engineer (Entry Level),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4106314510,76439524,Data Engineer,Full-time,MedScout,United States, United States,Software Development,953,200,04/02/25
+4127689239,3831,Data Engineer,Full-time,Northern Trust,Chicago, IL,Financial Services,711,200,04/02/25
+4106067409,3762,Data Engineer (multiple openings) - IHM,Full-time,Discover Financial Services,Riverwoods, IL,"Financial Services, Banking, and Hospitality",972,200,04/02/25
+4090656526,102017555,AWS/Python Data Engineer,Full-time,SIDRAM TECHNOLOGIES,Charlotte, NC,"Technology, Information and Internet",620,200,04/02/25
+4149299895,1353,Data Engineer,Full-time,Tata Consultancy Services,Atlanta, GA,IT Services and IT Consulting,972,200,04/02/25
+4140322130,77547,Data Engineer - Cleveland/Columbus,Full-time,Superior Beverage Group,Greater Cleveland,OH,Wholesale,677,93,04/02/25
+4137033613,2010798,Data Engineer - AWS,Full-time,Tiger Analytics,Charlotte, NC,IT Services and IT Consulting,560,25,04/02/25
+4053077877,2833966,AWS Data Engineer,Contract,TekSalt Solutions,Charlotte, NC,IT Services and IT Consulting,200,200,04/02/25
+4146308710,1373602,Senior Frontend Software Engineer - Checkout (100% remote),Full-time,Hopper,United States, United States,"Technology, Information and Internet",677,136,04/02/25
+4068205917,69338417,Data Engineer,Full-time,"EXL Service Philippines, Inc.",Hartford, CT,Outsourcing and Offshoring Consulting,732,200,04/02/25
+4133521108,76312,Data Engineer,Full-time,Okland Construction,Salt Lake City, UT,Construction,677,200,04/02/25
+4127766410,37538,"Data Engineer (Python, Java, Azure)",Contract,"Gardner Resources Consulting, LLC",Secaucus, NJ,Financial Services,677,200,04/02/25
+4045427537,66321745,Entry Level Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4146291743,1441,"Software Engineer III, Generative AI, Data Analytics",Full-time,Google,Sunnyvale, CA,"Information Services and Technology, Information and Internet",677,25,04/02/25
+4137490397,1681,Data Engineer,Full-time,Robert Half,Washington DC-Baltimore Area,WA,Staffing and Recruiting and Financial Services,711,200,04/02/25
+4141180643,14653152,Data Engineer,Full-time,A United Pakistan,Roanoke, TX,Research,560,51,04/02/25
+4117462306,7075,Entry Level Data Engineer,Full-time,Meijer,Grand Rapids, MI,Retail,972,200,04/02/25
+4078473933,68692234,Data Engineer,Full-time,B9,Miami, FL,"Technology, Information and Internet",592,200,04/02/25
+4105018732,78627785,Data Engineer Intern (Summer 2025),Internship,Electra,Boulder, CO,Primary Metal Manufacturing,725,200,04/02/25
+4045415030,66321745,Data Engineer (Remote),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,828,25,04/02/25
+4088679789,1586,"Data Engineer, DS2-Science & Data Technology team",Full-time,Amazon,Bellevue, WA,Software Development,972,174,04/02/25
+4151639731,2980860,Software Engineer,Full-time,Optimized Payments,Atlanta, GA,Financial Services,678,35,04/02/25
+4145998617,89522484,Data Engineer,Full-time,Augustine Talent Group,Houston, TX,"Financial Services, Investment Management, and Venture Capital and Private Equity Principals",620,200,04/02/25
+4051126357,2833966,Data Engineer Azure,Contract,TekSalt Solutions,Charlotte, NC,IT Services and IT Consulting,972,142,04/02/25
+3875376292,46623,Data Engineer,Full-time,"GEI Consultants, Inc.",Ithaca, NY,Environmental Services and Renewable Energy Semiconductor Manufacturing,686,58,04/02/25
+4151699756,68313053,Data Analytics Engineer,Full-time,Royal Caribbean Group,Miami, FL,Travel Arrangements,678,104,04/02/25
+4149752686,12241,Data Engineer Intern,Part-time,"Wawa, Inc.",Media, PA,Retail,678,161,04/02/25
+4151643730,7162834,Senior Data Engineer,Full-time,RKT Holdings,Detroit, MI,IT Services and IT Consulting,678,30,04/02/25
+3646129422,280637,Software Engineer/Developer,Full-time,Northstrat Incorporated,Colorado Springs, CO,IT Services and IT Consulting,200,25,04/02/25
+4149939456,1663,Data Analytics Engineer,Full-time,Eli Lilly and Company,Indianapolis, IN,Pharmaceutical Manufacturing,622,200,04/02/25
+4120828110,10667,"Data Engineer, Product Analytics",Full-time,Meta,New York, NY,"Technology, Information and Internet",742,25,04/02/25
+4098468281,3657,Data Engineer,Full-time,Penn State University,University Park, PA,Higher Education,972,71,04/02/25
+4137135684,2646,"(USA) Staff, Data Engineer",Full-time,Walmart,Sunnyvale, CA,Retail,711,79,04/02/25
+4101116282,66321745,Data Engineer - Remote,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,200,04/02/25
+4151046028,3302167,"Data Engineer II, Search Boundaries",Full-time,Mapbox,San Francisco, CA,Software Development,620,200,04/02/25
+4012338272,96139831,Data Engineer,Contract,DataAnnotation,United States, United States,"Software Development, Computer and Network Security, and Engineering Services",200,200,04/02/25
+4136516236,222322,Data Engineer,Full-time,"Kwik Trip, Inc.",La Crosse, WI,Retail,677,200,04/02/25
+4126600812,18633749,Lead Data Engineer,Full-time,Strativ Group,San Francisco, CA,Software Development,858,200,04/02/25
+4149764190,245926,SQL Developer Data Engineer,Full-time,NYC Department of Health and Mental Hygiene,All, MO,Hospitals and Health Care,678,38,04/02/25
+4045408987,66321745,Junior Software Engineer ( Remote),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,35,04/02/25
+4118589048,66321745,Junior Software Engineer - Remote,Contract,SynergisticIT,Illinois, United States,IT Services and IT Consulting,620,112,04/02/25
+4120222585,165640,Data Engineer - 100% Remote,Full-time,Radian,United States, United States,Financial Services,560,200,04/02/25
+4104638528,66321745,Entry Level Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,742,25,04/02/25
+4147666529,21279,Data Engineer (Developer IV),Full-time,TALENT Software Services,Herndon, VA,IT Services and IT Consulting,620,200,04/02/25
+4140121386,30324,Data Engineer,Contract,Intelliswift - An LTTS Company,Dublin, CA,Banking,677,200,04/02/25
+4151637300,12906038,Senior Data Engineer,Full-time,ResortPass,New York, United States,Internet Marketplace Platforms,678,26,04/02/25
+4151487502,29289303,Data Engineer,Full-time,Horizontal Talent,Maple Grove, MN,Staffing and Recruiting,678,200,04/02/25
+4133415618,27423,"College Intern, Data Engineer",Other,Republic National Distributing Company,Atlanta, GA,Beverage Manufacturing,677,25,04/02/25
+4045415046,66321745,Data Engineer - Remote,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4146385796,91447303,Data Engineer,Full-time,Dexian,Westlake, TX,Insurance,522,200,04/02/25
+4045411900,66321745,Data Engineer,Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4151644720,2873708,Data Engineer - Junior,Full-time,Castalia Systems,Chantilly, VA,Defense & Space,678,90,04/02/25
+4103521197,3088,Data Engineer II -- AWS/Databricks/Snowflake/Python/SQL/ETL,Full-time,Travelers,Hartford, CT,Insurance,200,199,04/02/25
+4151573330,17900793,Software Engineer,Full-time,Waymo,Mountain View, CA,"Technology, Information and Internet",678,200,04/02/25
+4143046451,101021,Data Engineer (Cleared),Full-time,Elder Research,United States, United States,IT Services and IT Consulting,677,130,04/02/25
+4142822863,75530431,Data Engineer,Full-time,Interwell Health,Boston, MA,"Technology, Information and Internet",522,200,04/02/25
+4151634755,809238,Jr. Big Data Engineer,Full-time,Soft Tech Consulting,Atlanta, GA,IT Services and IT Consulting,678,42,04/02/25
+4076964254,5262441,GCP Data Engineer,Full-time,IT Minds LLC,Sunnyvale, CA,IT Services and IT Consulting,742,196,04/02/25
+4061748662,2646,"Principal, Data Engineer",Full-time,Walmart,Sunnyvale, CA,Retail,200,196,04/02/25
+4125160318,2010798,Data Platform Engineer,Full-time,Tiger Analytics,Charlotte, NC,IT Services and IT Consulting,858,200,04/02/25
+4132152657,2908890,Data Engineer,Full-time,AbsoluteCare,United States, United States,Hospitals and Health Care,677,200,04/02/25
+4147102729,5322,Data Engineer,Full-time,ALTEN,Colorado, United States,IT Services and IT Consulting,947,49,04/02/25
+4151624945,36095797,Software Engineer - Full-Stack (All Levels),Full-time,EvenUp,San Francisco, CA,"Technology, Information and Internet",678,112,04/02/25
+4125894638,2684081,Data Engineer,Contract,Optomi,Dallas, TX,Financial Services,677,200,04/02/25
+4126028518,27116538,Data Engineer,Full-time,ThinkTek,Washington, DC,Business Consulting and Services,727,47,04/02/25
+4151623324,72494634,Senior Data Engineer,Full-time,Acrisure Innovation,Austin, TX,Software Development,678,25,04/02/25
+4045407905,66321745,JUNIOR SOFTWARE ENGINEER (REMOTE),Full-time,SynergisticIT,Illinois, United States,IT Services and IT Consulting,200,25,04/02/25
+4115753891,2010798,Data Engineer - Snowflake,Full-time,Tiger Analytics,Charlotte, NC,IT Services and IT Consulting,677,77,04/02/25
+4146527170,923974,Data Engineer,Full-time,Xperit,Junior, WV,IT Services and IT Consulting,678,65,04/02/25

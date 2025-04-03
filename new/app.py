@@ -156,12 +156,20 @@ with st.sidebar:
 # Load and prepare data
 try:
     # Try to load the actual CSV file
-    file_path = "new/Job.csv"
+    file_path = "Job.csv"  # File is in the same directory as app.py
     df = pd.read_csv(file_path)
     df['dateposted'] = pd.to_datetime(df['dateposted'], format='%m/%d/%y')
-except:
-    st.error("Could not load Job.csv file. Please make sure it exists in the correct location.")
-    df = pd.DataFrame()  # Create empty DataFrame if file not found
+    data_loaded = True
+except Exception as e:
+    st.error(f"Could not load Job.csv file: {str(e)}")
+    df = pd.DataFrame({
+        'state': ['Sample'],
+        'viewscount': [0],
+        'applicationsCount': [0],
+        'sector': ['Sample'],
+        'contractType': ['Sample']
+    })
+    data_loaded = False
 
 # Dashboard Header with back button and date
 st.markdown("""
@@ -184,22 +192,32 @@ col1, col2, col3, col4 = st.columns([2, 2, 2, 3])
 
 with col1:
     st.markdown("<div style='background-color: #8B4513; padding: 0.5rem; border-radius: 8px; color: white;'><h4 style='margin:0; color: white;'>Select the State</h4></div>", unsafe_allow_html=True)
-    state_selected = st.selectbox("", ["All"] + list(df['state'].dropna().unique()), label_visibility="collapsed")
+    if data_loaded:
+        state_selected = st.selectbox("", ["All"] + list(df['state'].dropna().unique()), label_visibility="collapsed")
+    else:
+        state_selected = st.selectbox("", ["All"], label_visibility="collapsed")
+        st.warning("No data available for state selection")
 
 with col2:
     st.markdown("<div style='background-color: #8B4513; padding: 0.5rem; border-radius: 8px; color: white;'><h4 style='margin:0; color: white;'>Average Applications</h4></div>", unsafe_allow_html=True)
-    st.metric("", value=round(df['applicationsCount'].mean()))
+    if data_loaded:
+        st.metric("", value=round(df['applicationsCount'].mean()))
+    else:
+        st.metric("", value=0)
 
 with col3:
     st.markdown("<div style='background-color: #8B4513; padding: 0.5rem; border-radius: 8px; color: white;'><h4 style='margin:0; color: white;'>Average Views</h4></div>", unsafe_allow_html=True)
-    st.metric("", value=round(df['viewscount'].mean()))
+    if data_loaded:
+        st.metric("", value=round(df['viewscount'].mean()))
+    else:
+        st.metric("", value=0)
 
 with col4:
     st.markdown("<div style='background-color: #8B4513; padding: 0.5rem; border-radius: 8px; color: white;'><h4 style='margin:0; color: white;'>Select Salary Rating</h4></div>", unsafe_allow_html=True)
     salary_rating = st.slider("", 0.0, 5.0, (0.0, 5.0), label_visibility="collapsed")
 
 # Filter Data
-if state_selected != "All":
+if data_loaded and state_selected != "All":
     df = df[df['state'] == state_selected]
 
 # Create main content columns
@@ -207,168 +225,198 @@ left_col, right_col = st.columns([0.65, 0.35])
 
 with left_col:
     with st.container():
-        # Contract Type Performance Chart
-        contract_chart = px.bar(
-            df.groupby("contractType")[["viewscount", "applicationsCount"]].mean().reset_index(),
-            x="contractType",
-            y=["viewscount", "applicationsCount"],
-            title="Job Postings Performance Comparison by Contract Type",
-            color_discrete_sequence=["#E98C55", "#8B4513"],
-            barmode='group',
+        if data_loaded:
+            # Contract Type Performance Chart
+            contract_chart = px.bar(
+                df.groupby("contractType")[["viewscount", "applicationsCount"]].mean().reset_index(),
+                x="contractType",
+                y=["viewscount", "applicationsCount"],
+                title="Job Postings Performance Comparison by Contract Type",
+                color_discrete_sequence=["#E98C55", "#8B4513"],
+                barmode='group',
+                height=300
+            )
+            contract_chart.update_layout(
+                plot_bgcolor='black',
+                paper_bgcolor='black',
+                title_font_color='#8B4513',
+                title_x=0.5,
+                margin=dict(l=40, r=40, t=60, b=40),
+                legend=dict(
+                    orientation="h",
+                    yanchor="bottom",
+                    y=1.02,
+                    xanchor="right",
+                    x=1,
+                    font=dict(color='white')
+                ),
+                xaxis=dict(tickfont=dict(color='white')),
+                yaxis=dict(tickfont=dict(color='white'))
+            )
+            st.plotly_chart(contract_chart, use_container_width=True)
+
+            # Sector Performance Chart with grouping
+            # Define sector mapping for better grouping
+            sector_mapping = {
+                'Technology': ['Technology, Information and Internet', 'Information Technology', 'Information Services', 'Software Development'],
+                'IT Services': ['IT Services and IT Consulting', 'IT System', 'Information Services'],
+                'Entertainment': ['Entertainment Providers', 'Media Production', 'Online Audio and Video'],
+                'Financial': ['Financial Services', 'Banking', 'Capital Markets', 'Insurance', 'Investment'],
+                'Healthcare': ['Health Care', 'Mental Health', 'Hospitals and Health Care', 'Medical'],
+                'Manufacturing': ['Manufacturing', 'Electronics Manufacturing', 'Semiconductor Manufacturing', 'Computers and Electronics Manufacturing'],
+                'Transportation': ['Ground Passenger Transportation', 'Airlines and Aviation'],
+                'Retail': ['Retail', 'Consumer Services', 'Food and Beverage']
+            }
+
+            def map_sector(sector):
+                if pd.isna(sector):
+                    return 'Other'
+                sector_lower = sector.lower()
+                # Check for multiple categories (separated by 'and' or ',')
+                if ',' in sector or ' and ' in sector:
+                    # Split the sector string and check each part
+                    parts = [p.strip() for p in sector.replace(' and ', ',').split(',')]
+                    for part in parts:
+                        for main_category, keywords in sector_mapping.items():
+                            if any(keyword.lower() in part.lower() for keyword in keywords):
+                                return main_category
+                else:
+                    # Single category check
+                    for main_category, keywords in sector_mapping.items():
+                        if any(keyword.lower() in sector_lower for keyword in keywords):
+                            return main_category
+                return 'Other'
+
+            # Apply the mapping to create sector groups
+            df['sector_group'] = df['sector'].apply(map_sector)
+            
+            # Calculate sector performance
+            sector_data = df.groupby("sector_group").agg({
+                "viewscount": "mean",
+                "applicationsCount": "mean",
+                "Job id": "count"  # Count number of jobs per sector
+            }).reset_index()
+            
+            # Add total performance and get top sectors (weighted by job count)
+            sector_data["total_performance"] = (sector_data["viewscount"] + sector_data["applicationsCount"]) * np.log1p(sector_data["Job id"])
+            sector_data = sector_data.nlargest(8, "total_performance")
+            
+            # Create the sector chart
+            sector_chart = px.bar(
+                sector_data,
+                x=["viewscount", "applicationsCount"],
+                y="sector_group",
+                title=f"Top Industry Sectors by Performance (Total Jobs: {len(df):,})",
+                color_discrete_sequence=["#E98C55", "#8B4513"],
+                orientation='h',
+                height=400,
+                labels={
+                    "sector_group": "Industry Sector",
+                    "viewscount": "Average Views",
+                    "applicationsCount": "Average Applications",
+                    "variable": "Metric Type"
+                }
+            )
+            sector_chart.update_layout(
+                plot_bgcolor='black',
+                paper_bgcolor='black',
+                title_font_color='#8B4513',
+                title_x=0.5,
+                margin=dict(l=40, r=40, t=60, b=40),
+                legend=dict(
+                    orientation="h",
+                    yanchor="bottom",
+                    y=1.02,
+                    xanchor="right",
+                    x=1,
+                    font=dict(color='white')
+                ),
+                yaxis=dict(
+                    tickfont=dict(color='white'),
+                    title_font=dict(color='white')
+                ),
+                xaxis=dict(
+                    tickfont=dict(color='white'),
+                    title_font=dict(color='white')
+                )
+            )
+            st.plotly_chart(sector_chart, use_container_width=True)
+        else:
+            st.warning("No data available for visualization")
+
+with right_col:
+    if data_loaded:
+        # Scatter Plot
+        scatter_chart = px.scatter(
+            df,
+            x="viewscount",
+            y="applicationsCount",
+            title="Views Count Vs Applications Count",
+            color_discrete_sequence=["#E98C55"],
             height=300
         )
-        contract_chart.update_layout(
-            plot_bgcolor='white',
-            paper_bgcolor='white',
-            title_font_color='#8B4513',
-            title_x=0.5,
-            margin=dict(l=40, r=40, t=60, b=40),
-            legend=dict(
-                orientation="h",
-                yanchor="bottom",
-                y=1.02,
-                xanchor="right",
-                x=1
-            )
-        )
-        st.plotly_chart(contract_chart, use_container_width=True)
-
-        # Sector Performance Chart
-        # Define sector mapping for better grouping
-        sector_mapping = {
-            'Software Development': ['Software Development', 'Software', 'Internet Publishing'],
-            'Technology & IT': ['Technology', 'Information Technology', 'IT Services', 'IT System', 'Information Services'],
-            'Financial Services': ['Financial Services', 'Banking', 'Capital Markets', 'Insurance'],
-            'Healthcare': ['Health Care', 'Mental Health', 'Hospitals', 'Medical'],
-            'Entertainment & Media': ['Entertainment Providers', 'Media Production', 'Online Audio and Video'],
-            'Manufacturing': ['Manufacturing', 'Electronics Manufacturing', 'Semiconductor'],
-            'Consulting': ['Consulting', 'Business Consulting'],
-            'Retail & Consumer': ['Retail', 'Consumer Services', 'Food and Beverage']
-        }
-
-        def map_sector(sector):
-            # Convert to lowercase for better matching
-            sector_lower = sector.lower()
-            for main_category, keywords in sector_mapping.items():
-                if any(keyword.lower() in sector_lower for keyword in keywords):
-                    return main_category
-            return 'Other'
-
-        # Apply the mapping to create sector groups
-        df['sector_group'] = df['sector'].apply(map_sector)
-        
-        # Calculate sector performance
-        sector_data = df.groupby("sector_group")[["viewscount", "applicationsCount"]].agg({
-            "viewscount": "mean",
-            "applicationsCount": "mean"
-        }).reset_index()
-        
-        # Add total performance and get top sectors
-        sector_data["total_performance"] = sector_data["viewscount"] + sector_data["applicationsCount"]
-        sector_data = sector_data.nlargest(8, "total_performance")
-        
-        # Create the sector chart
-        sector_chart = px.bar(
-            sector_data,
-            x=["viewscount", "applicationsCount"],
-            y="sector_group",
-            title="Top Industry Sectors by Performance",
-            color_discrete_sequence=["#E98C55", "#8B4513"],
-            orientation='h',
-            height=400,
-            labels={
-                "sector_group": "Industry Sector",
-                "viewscount": "Average Views",
-                "applicationsCount": "Average Applications",
-                "variable": "Metric Type"
-            }
-        )
-        sector_chart.update_layout(
+        scatter_chart.update_layout(
             plot_bgcolor='black',
             paper_bgcolor='black',
             title_font_color='#8B4513',
             title_x=0.5,
             margin=dict(l=40, r=40, t=60, b=40),
-            legend=dict(
-                orientation="h",
-                yanchor="bottom",
-                y=1.02,
-                xanchor="right",
-                x=1,
-                font=dict(color='white')
-            ),
-            yaxis=dict(
-                tickfont=dict(color='white'),
-                title_font=dict(color='white')
-            ),
-            xaxis=dict(
-                tickfont=dict(color='white'),
-                title_font=dict(color='white')
-            )
+            xaxis=dict(tickfont=dict(color='white')),
+            yaxis=dict(tickfont=dict(color='white'))
         )
-        st.plotly_chart(sector_chart, use_container_width=True)
+        st.plotly_chart(scatter_chart, use_container_width=True)
 
-with right_col:
-    # Scatter Plot
-    scatter_chart = px.scatter(
-        df,
-        x="viewscount",
-        y="applicationsCount",
-        title="Views Count Vs Applications Count",
-        color_discrete_sequence=["#E98C55"],
+        # Pie Chart
+        experience_data = {'Experience Level': ['Junior', 'Mid-level', 'Senior'],
+                        'Percentage': [40, 33.33, 26.67]}
+        exp_df = pd.DataFrame(experience_data)
+        pie_chart = px.pie(
+            exp_df,
+            values='Percentage',
+            names='Experience Level',
+            title="Distribution of Applications by Experience Level",
+            color_discrete_sequence=["#E98C55", "#C06030", "#8B4513"],
+            height=300
+        )
+        pie_chart.update_layout(
+            title_font_color='#8B4513',
+            title_x=0.5,
+            margin=dict(l=40, r=40, t=60, b=40),
+            paper_bgcolor='black',
+            font=dict(color='white')
+        )
+        st.plotly_chart(pie_chart, use_container_width=True)
+    else:
+        st.warning("No data available for visualization")
+
+if data_loaded:
+    # Timeline Chart
+    line_chart = px.line(
+        df.groupby(df['dateposted'].dt.strftime('%b %y'))[['viewscount', 'applicationsCount']].mean().reset_index(),
+        x="dateposted",
+        y=["viewscount", "applicationsCount"],
+        title="Views and Applications Over Time",
+        markers=True,
+        color_discrete_sequence=["#E98C55", "#8B4513"],
         height=300
     )
-    scatter_chart.update_layout(
-        plot_bgcolor='white',
-        paper_bgcolor='white',
-        title_font_color='#8B4513',
-        title_x=0.5,
-        margin=dict(l=40, r=40, t=60, b=40)
-    )
-    st.plotly_chart(scatter_chart, use_container_width=True)
-
-    # Pie Chart
-    experience_data = {'Experience Level': ['Junior', 'Mid-level', 'Senior'],
-                      'Percentage': [40, 33.33, 26.67]}
-    exp_df = pd.DataFrame(experience_data)
-    pie_chart = px.pie(
-        exp_df,
-        values='Percentage',
-        names='Experience Level',
-        title="Distribution of Applications by Experience Level",
-        color_discrete_sequence=["#E98C55", "#C06030", "#8B4513"],
-        height=300
-    )
-    pie_chart.update_layout(
+    line_chart.update_layout(
+        plot_bgcolor='black',
+        paper_bgcolor='black',
         title_font_color='#8B4513',
         title_x=0.5,
         margin=dict(l=40, r=40, t=60, b=40),
-        paper_bgcolor='white'
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="right",
+            x=1,
+            font=dict(color='white')
+        ),
+        xaxis=dict(tickfont=dict(color='white')),
+        yaxis=dict(tickfont=dict(color='white'))
     )
-    st.plotly_chart(pie_chart, use_container_width=True)
-
-# Timeline Chart
-line_chart = px.line(
-    df.groupby(df['dateposted'].dt.strftime('%b %y'))[['viewscount', 'applicationsCount']].mean().reset_index(),
-    x="dateposted",
-    y=["viewscount", "applicationsCount"],
-    title="Views and Applications Over Time",
-    markers=True,
-    color_discrete_sequence=["#E98C55", "#8B4513"],
-    height=300
-)
-line_chart.update_layout(
-    plot_bgcolor='white',
-    paper_bgcolor='white',
-    title_font_color='#8B4513',
-    title_x=0.5,
-    margin=dict(l=40, r=40, t=60, b=40),
-    legend=dict(
-        orientation="h",
-        yanchor="bottom",
-        y=1.02,
-        xanchor="right",
-        x=1
-    )
-)
-st.plotly_chart(line_chart, use_container_width=True)
+    st.plotly_chart(line_chart, use_container_width=True)
+else:
+    st.warning("No data available for timeline visualization")

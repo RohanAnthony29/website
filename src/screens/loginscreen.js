@@ -19,4 +19,4 @@ export default function LoginScreen({NavigationActivation, route}){
             <Text style={Styles.title}>Welcome To Steak's Login Page</Text>
             <TextInput placeholder="Email Address" value={email} onChangeText={setEmail} style={style.input} />
             <TextInput placeholder="Password" value={password} onChangeText={setPassword} secureTextEntry style={style.input} />
-    
+    jjjk

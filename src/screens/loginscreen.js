@@ -9,7 +9,7 @@ export default function LoginScreen({NavigationActivation, route}){
 
     const handleLogin = () => {
         if (email && password && user &&email ===user.email && password === user.password) {
-            navigation.replace('Profile', {user});
+            navigation.replace('Profile', {user});cd 
         } else {
             alert('Invalid credentials or user not found');
         }
@@ -19,4 +19,4 @@ export default function LoginScreen({NavigationActivation, route}){
             <Text style={Styles.title}>Welcome To Steak's Login Page</Text>
             <TextInput placeholder="Email Address" value={email} onChangeText={setEmail} style={style.input} />
             <TextInput placeholder="Password" value={password} onChangeText={setPassword} secureTextEntry style={style.input} />
-    jjjk
+        }
